@@ -4,8 +4,7 @@ import numpy as np
 from matplotlib.widgets import Button
 import glob
 
-path = glob.glob('./mamografias/DleftCC/*.png')
-# path = glob.glob('./mamografias/**/*.png')
+path = glob.glob('./mamografias/**/*.png')
 
 data_index = 0
 data_len = len(path)
@@ -22,6 +21,7 @@ button_prev = Button(prevax, 'prev', hovercolor='0.975')
 
 def update(val):
     global curr_img
+    print(path[val])
     img = Image.open(path[val])
     img = img.resize((256, 256))
     curr_img.set(data=img)
