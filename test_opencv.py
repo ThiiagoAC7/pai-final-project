@@ -1,41 +1,48 @@
-import cv2 as cv
-import glob
-import sys
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.widgets import Slider, Button, RadioButtons
 
-'''
-TODO:
-    - Diminuir resolução das imagens para display
-    - opencv buttons (?)
-        - next/previous (?)
-        - pause (?)
-    - zoom (trackbar)
-        - https://docs.opencv.org/4.x/da/d6a/tutorial_trackbar.html
-    - https://github.com/Chetan-Goyal/Slideshow-using-Opencv-python/blob/master/main.py
-    - https://analyticsindiamag.com/real-time-gui-interactions-with-opencv-in-python/
-'''
+fig, ax = plt.subplots()
+plt.subplots_adjust(left=0.25, bottom=0.25)
+t = np.arange(0.0, 1.0, 0.001)
+a0 = 5
+f0 = 3
+s = a0*np.sin(2*np.pi*f0*t)
+l, = plt.plot(t, s, lw=2, color='red')
+plt.axis([0, 1, -10, 10])
 
+axcolor = 'lightgoldenrodyellow'
+axfreq = plt.axes([0.25, 0.1, 0.65, 0.03], facecolor=axcolor)
+axamp = plt.axes([0.25, 0.15, 0.65, 0.03], facecolor=axcolor)
 
-def showImages(winname, path):
-    for i in path:
-        img = cv.imread(i)
-        img = cv.resize(img, (256, 256))
-        print(img.shape[0], img.shape[1])
-        cv.imshow(winname, img)
-        key = cv.waitKey(5000)
-        if key == ord('q'):
-            sys.exit(0)
-    cv.destroyAllWindows()
+sfreq = Slider(axfreq, 'Freq', 0.1, 30.0, valinit=f0)
+samp = Slider(axamp, 'Amp', 0.1, 10.0, valinit=a0)
 
 
-def main():
-    winname = 'window'
-    cv.namedWindow(winname, cv.WINDOW_NORMAL)
-    cv.resizeWindow(winname, 500, 500)
-    path = glob.glob('./mamografias/**/*.png')
-    # print(path[1])  # ./mamografias\DleftCC\d_left_cc (10).png
-    # print(path[len(path)-1])  # ./mamografias\GrightMLO\g_right_mlo (99).png
-    showImages(winname, path)
+def update(val):
+    amp = samp.val
+    freq = sfreq.val
+    l.set_ydata(amp*np.sin(2*np.pi*freq*t))
+    fig.canvas.draw_idle()
+sfreq.on_changed(update)
+samp.on_changed(update)
+
+resetax = plt.axes([0.8, 0.025, 0.1, 0.04])
+button = Button(resetax, 'Reset', color=axcolor, hovercolor='0.975')
 
 
-if __name__ == '__main__':
-    main()
+def reset(event):
+    sfreq.reset()
+    samp.reset()
+button.on_clicked(reset)
+
+rax = plt.axes([0.025, 0.5, 0.15, 0.15], facecolor=axcolor)
+radio = RadioButtons(rax, ('red', 'blue', 'green'), active=0)
+
+
+def colorfunc(label):
+    l.set_color(label)
+    fig.canvas.draw_idle()
+radio.on_clicked(colorfunc)
+
+plt.show()
