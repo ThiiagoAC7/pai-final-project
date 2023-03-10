@@ -32,6 +32,7 @@ scontrast = Slider(sliderax, 'Contrast', 2.1, 30.0, valinit=c0)
 #     minColor = np.amin(image)
 #     maxColor = np.amax(image)
 #     https://stackoverflow.com/questions/48406578/adjusting-contrast-of-image-purely-with-numpy/50602577#50602577
+#
 
 def update(val):
     global curr_img
