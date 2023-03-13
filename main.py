@@ -9,7 +9,7 @@ path = glob.glob('./mamografias/**/*.png')
 data_index = 0
 data_len = len(path)
 img = Image.open(path[data_index])
-img = img.resize((256, 256))
+# img = img.resize((256, 256))
 curr_img = plt.imshow(np.asarray(img), cmap='Greys_r')
 c0 = 3
 axcolor = 'lightgoldenrodyellow'
@@ -23,7 +23,7 @@ resetax = plt.axes([0.8, 0.020, 0.1, 0.04])
 button_reset = Button(resetax, 'Reset', color=axcolor, hovercolor='0.975')
 
 # create slider
-sliderax = plt.axes([0.15, -0.018, 0.65, 0.03], facecolor=axcolor) #position of slider
+sliderax = plt.axes([0.15, 0.9, 0.65, 0.03], facecolor=axcolor) #position of slider
 scontrast = Slider(sliderax, 'Contrast', 2.1, 30.0, valinit=c0)
 
 
