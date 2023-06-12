@@ -5,10 +5,10 @@ WINNAME = "Processamento e Análise de Imagens"
 
 def window():
     root = tk.Tk()
+    app = Window(root)
     root.title(WINNAME)
     root.config(bg="#191919")
-    app = Window(root)
-    app.update_image()
+    app.select_image(111)
     root.state('zoomed')
     root.mainloop()
 

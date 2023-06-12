@@ -44,6 +44,10 @@ class Window(tk.Frame):
         self.index = 0
         self.curr_img = cv2.imread(IMGS[self.index], cv2.IMREAD_GRAYSCALE)
 
+    def select_image(self, img_index):
+        self.curr_img = cv2.imread(IMGS[img_index], cv2.IMREAD_GRAYSCALE)
+        self.update_image()
+
     def update_image(self):
         """
         Atualiza a Imagem atual na tela
