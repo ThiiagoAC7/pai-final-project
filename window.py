@@ -4,8 +4,7 @@ import glob
 import cv2
 import numpy as np
 
-IMGS = glob.glob('./mamografias/**/*.png')
-
+IMGS = glob.glob('./datasets/dataset_validation/**/*.png')
 
 class Window(tk.Frame):
     def __init__(self, master):
@@ -22,15 +21,27 @@ class Window(tk.Frame):
         self.min_val = tk.DoubleVar()
         self.min_contrast = tk.Scale(self.SliderFrame, label="min", from_=0, to=255, variable=self.min_val,
                                      orient=tk.VERTICAL, showvalue=1, bg="#191919", fg="#d4d4d4",
-                                     highlightbackground="#191919", highlightcolor="#d4d4d4")
+                                     highlightbackground="#191919", highlightcolor="#d4d4d4",
+                                     command=self.slider_handler_min)
+        self.min_contrast.set(0)
         self.min_contrast.pack(side=tk.LEFT, fill=tk.Y)
 
         self.max_val = tk.DoubleVar()
         self.max_contrast = tk.Scale(self.SliderFrame, label="max", from_=0, to=255, variable=self.max_val,
                                      orient=tk.VERTICAL, showvalue=1, bg="#191919", fg="#d4d4d4",
-                                     highlightbackground="#191919", highlightcolor="#d4d4d4")
+                                     highlightbackground="#191919", highlightcolor="#d4d4d4",
+                                     command=self.slider_handler_max)
         self.max_contrast.set(255)
         self.max_contrast.pack(side=tk.LEFT, fill=tk.Y)
+
+        self.ClassificationFrame = tk.Frame(self.master, bg="#191919")
+        self.ClassificationFrame.pack(side=tk.RIGHT, fill=tk.Y)
+        self.classf_bin_button = tk.Button(self.ClassificationFrame, bg="#191919", fg="#d4d4d4",
+                                         text="Classificador Binário",command=self.classify_bin)
+        self.classf_bin_button.pack(side=tk.TOP, fill=tk.X)
+        self.classf_four_button = tk.Button(self.ClassificationFrame, bg="#191919", fg="#d4d4d4",
+                                         text="Classificador 4 Classes",command=self.classify_four)
+        self.classf_four_button.pack(side=tk.BOTTOM, fill=tk.X)
 
         self.ImgFrame = tk.Frame(self.master, bg="#181824")
         self.ImgFrame.pack(side=tk.RIGHT, fill=tk.Y)
@@ -38,6 +49,7 @@ class Window(tk.Frame):
         self.img_label.config(width=self.ImgFrame.winfo_width(),
                               height=self.ImgFrame.winfo_height())
         self.img_label.pack(fill=tk.BOTH, expand=1)
+
 
         self.master.bind("n", self.next_prev_handler)
         self.master.bind("p", self.next_prev_handler)
@@ -73,6 +85,23 @@ class Window(tk.Frame):
         self.curr_img = cv2.imread(IMGS[self.index], cv2.IMREAD_GRAYSCALE)
         self.update_image()
 
+    def slider_handler_min(self,event):
+        print(f'Min Contrast -> {event}')
+        min_val = int(event)
+        max_val = self.max_val.get()
+        np.clip(self.curr_img, min_val, max_val, out=self.curr_img)
+        self.curr_img = cv2.equalizeHist(self.curr_img)
+        self.update_image()
+
+
+    def slider_handler_max(self,event):
+        print(f'Max Contrast -> {event}')
+        max_val = int(event)
+        min_val = self.min_val.get()
+        np.clip(self.curr_img, min_val, max_val, out=self.curr_img)
+        self.curr_img = cv2.equalizeHist(self.curr_img)
+        self.update_image()
+
     def apply_contrast(self):
         """
         Aplica contraste à imagem atual, considerando valores min e max do slider.
@@ -82,4 +111,14 @@ class Window(tk.Frame):
         max_val = self.max_val.get()
         if self.min_val.get() < self.max_val.get():
             np.clip(self.curr_img, min_val, max_val, out=self.curr_img)
+            self.curr_img = cv2.equalizeHist(self.curr_img)
             self.update_image()
+
+
+    def classify_bin(self):
+        print(f'callback classificador binário ')
+        # ...
+
+    def classify_four(self):
+        print(f'callback classificador 4 classes ')
+        # ...
