@@ -133,12 +133,13 @@ class Window(tk.Frame):
     def classify_bin(self):
         print(f'callback classificador binário ')
 
-        classes = {"1_2": "BIRADS I+IV",
+        classes = {"1_2": "BIRADS I+II",
                    "3_4": "BIRADS III+IV"}
 
-        # curr_img_path = IMGS[self.index]
+        curr_img_path = f'.{self.curr_img_path[24:]}'
 
-        predicted_label, true_label, time, pred_probs = predict(self.curr_img_path)
+        print(curr_img_path)
+        predicted_label, true_label, time, pred_probs = predict(curr_img_path)
 
         print(f'predicted label -> {predicted_label}')
         print(f'true label -> {true_label}')
@@ -179,8 +180,9 @@ class Window(tk.Frame):
                    "3": "BIRADS III",
                    "4": "BIRADS IV"}
 
+        curr_img_path = f'.{self.curr_img_path[24:]}'
         predicted_label, true_label, time, pred_probs = predict(
-            self.curr_img_path, True)
+            curr_img_path, True)
 
         print(f'pred_probs -> {pred_probs}')
         print(f'predicted label -> {predicted_label}')
