@@ -70,7 +70,7 @@ def predict_img(img_path, model, transform, class_names):
     print(
         f'({pred_time:.4f}) image -> {img_path[30:]} \n\t predicted_label->{predicted_label}, true_label->{true_label}')
 
-    return predicted_label, true_label, time, pred_labels_and_probs
+    return predicted_label, true_label, pred_time, pred_labels_and_probs
 
 
 def predict(img_path, ismanual=False):
@@ -80,16 +80,16 @@ def predict(img_path, ismanual=False):
     ismanual: caso modelo a ser chamado seja 4class_25epochs
     """
     class_names = ["1_2", "3_4"]
-    # model_path = './models/model_bin_segmented_25epochs.pth'
-    model_path = './models/model_bin_segmented_10epochs.pth'
+    model_path = './models/model_bin_segmented_25epochs.pth'
+    # model_path = './models/model_bin_segmented_10epochs.pth'
     if ismanual:
-        # model_path = './models/model_4class_segmented_25epochs.pth'
-        model_path = './models/model_4class_segmented_10epochs.pth'
+        model_path = './models/model_4class_segmented_25epochs.pth'
+        # model_path = './models/model_4class_segmented_10epochs.pth'
         class_names = ["1", "2", "3", "4"]
 
     print(f'using model -> {model_path}, manual transform ? {str(ismanual)}')
     model = create_model(class_names, weights, gpu=False)
-    transform = get_transform(weights)
+    transform = get_transform(weights, ismanual)
     model.load_state_dict(torch.load(model_path, map_location=torch.device('cpu')))
     
     return predict_img(img_path, model, transform, class_names)
@@ -146,4 +146,4 @@ def classify(ismanual=False):
             "time": (end - start)
         }
 
-print(classify())
+# print(classify())

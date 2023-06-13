@@ -4,7 +4,11 @@ import glob
 import cv2
 import numpy as np
 
+from tkinter import filedialog
+from predict import predict
+
 IMGS = glob.glob('./datasets/dataset_validation/**/*.png')
+
 
 class Window(tk.Frame):
     def __init__(self, master):
@@ -14,7 +18,11 @@ class Window(tk.Frame):
 
         self.SliderFrame = tk.Frame(self.master, bg="#191919")
         self.SliderFrame.pack(side=tk.LEFT, fill=tk.Y)
-        self.contrast_button = tk.Button(self.SliderFrame, text="Contraste",
+        self.select_image_button = tk.Button(self.SliderFrame, bg="#191919", fg="#d4d4d4",
+                                             text="Selecionar Imagem", command=self.select_image)
+        self.select_image_button.pack(side=tk.TOP, fill=tk.X)
+
+        self.contrast_button = tk.Button(self.SliderFrame, text="Reset Image",
                                          bg="#191919", fg="#d4d4d4", command=self.apply_contrast)
         self.contrast_button.pack(side=tk.BOTTOM, fill=tk.X)
 
@@ -36,11 +44,19 @@ class Window(tk.Frame):
 
         self.ClassificationFrame = tk.Frame(self.master, bg="#191919")
         self.ClassificationFrame.pack(side=tk.RIGHT, fill=tk.Y)
+        self.info_button = tk.Button(self.ClassificationFrame, bg="#191919", fg="#d4d4d4",
+                                     text="INFO CLASSIFICADOR BINARIO", command=self.info_callback)
+        self.info_button.pack(side=tk.TOP, fill=tk.X)
+
+        self.info_button_quat = tk.Button(self.ClassificationFrame, bg="#191919", fg="#d4d4d4",
+                                     text="INFO CLASSIFICADOR 4 CLASSES", command=self.info_callback_quat)
+        self.info_button_quat.pack(side=tk.TOP, fill=tk.X)
+
         self.classf_bin_button = tk.Button(self.ClassificationFrame, bg="#191919", fg="#d4d4d4",
-                                         text="Classificador Binário",command=self.classify_bin)
-        self.classf_bin_button.pack(side=tk.TOP, fill=tk.X)
+                                           text="Classificador Binário", command=self.classify_bin)
+        self.classf_bin_button.pack(side=tk.BOTTOM, fill=tk.X)
         self.classf_four_button = tk.Button(self.ClassificationFrame, bg="#191919", fg="#d4d4d4",
-                                         text="Classificador 4 Classes",command=self.classify_four)
+                                            text="Classificador 4 Classes", command=self.classify_four)
         self.classf_four_button.pack(side=tk.BOTTOM, fill=tk.X)
 
         self.ImgFrame = tk.Frame(self.master, bg="#181824")
@@ -50,15 +66,19 @@ class Window(tk.Frame):
                               height=self.ImgFrame.winfo_height())
         self.img_label.pack(fill=tk.BOTH, expand=1)
 
-
-        self.master.bind("n", self.next_prev_handler)
-        self.master.bind("p", self.next_prev_handler)
+        # self.master.bind("n", self.next_prev_handler)
+        # self.master.bind("p", self.next_prev_handler)
         self.index = 0
+        self.curr_img_path = ''
         self.curr_img = cv2.imread(IMGS[self.index], cv2.IMREAD_GRAYSCALE)
 
-    def select_image(self, img_index):
-        self.curr_img = cv2.imread(IMGS[img_index], cv2.IMREAD_GRAYSCALE)
-        self.update_image()
+    def select_image(self):
+        file_path = filedialog.askopenfilename(filetypes=(
+            ("Image files", "*.jpg;*.jpeg;*.png"), ("All files", "*.*")))
+        if file_path:
+            self.curr_img_path = file_path
+            self.curr_img = cv2.imread(self.curr_img_path, cv2.IMREAD_GRAYSCALE)
+            self.update_image()
 
     def update_image(self):
         """
@@ -85,40 +105,161 @@ class Window(tk.Frame):
         self.curr_img = cv2.imread(IMGS[self.index], cv2.IMREAD_GRAYSCALE)
         self.update_image()
 
-    def slider_handler_min(self,event):
+    def slider_handler_min(self, event):
         print(f'Min Contrast -> {event}')
-        min_val = int(event)
-        max_val = self.max_val.get()
-        np.clip(self.curr_img, min_val, max_val, out=self.curr_img)
-        self.curr_img = cv2.equalizeHist(self.curr_img)
-        self.update_image()
-
-
-    def slider_handler_max(self,event):
-        print(f'Max Contrast -> {event}')
-        max_val = int(event)
-        min_val = self.min_val.get()
-        np.clip(self.curr_img, min_val, max_val, out=self.curr_img)
-        self.curr_img = cv2.equalizeHist(self.curr_img)
-        self.update_image()
-
-    def apply_contrast(self):
-        """
-        Aplica contraste à imagem atual, considerando valores min e max do slider.
-        """
-        print(self.min_val.get(), self.max_val.get())
-        min_val = self.min_val.get()
-        max_val = self.max_val.get()
-        if self.min_val.get() < self.max_val.get():
+        if self.curr_img_path != '':
+            min_val = int(event)
+            max_val = self.max_val.get()
             np.clip(self.curr_img, min_val, max_val, out=self.curr_img)
             self.curr_img = cv2.equalizeHist(self.curr_img)
             self.update_image()
 
+    def slider_handler_max(self, event):
+        print(f'Max Contrast -> {event}')
+        if self.curr_img_path != '':
+            max_val = int(event)
+            min_val = self.min_val.get()
+            np.clip(self.curr_img, min_val, max_val, out=self.curr_img)
+            self.curr_img = cv2.equalizeHist(self.curr_img)
+            self.update_image()
+
+    def apply_contrast(self):
+        """
+        Reseta Imagem
+        """
+        self.curr_img = cv2.imread(self.curr_img_path, cv2.IMREAD_GRAYSCALE)
+        self.update_image()
 
     def classify_bin(self):
         print(f'callback classificador binário ')
-        # ...
+
+        classes = {"1_2": "BIRADS I+IV",
+                   "3_4": "BIRADS III+IV"}
+
+        # curr_img_path = IMGS[self.index]
+
+        predicted_label, true_label, time, pred_probs = predict(self.curr_img_path)
+
+        print(f'predicted label -> {predicted_label}')
+        print(f'true label -> {true_label}')
+        print(f'pred_probs -> {pred_probs}')
+
+        fontfamily = ("Arial", 15)
+
+        popup_window = tk.Toplevel(self.master)
+        popup_window.title("Resultados")
+        popup_window.geometry("500x500")
+
+        time_label = tk.Label(
+                popup_window, text=f"Classificou em: {time:.4f} segundos",  font=fontfamily)
+        time_label.pack()
+
+        predicted_label_label = tk.Label(popup_window, text=f"Classe predita: {classes[predicted_label]}",
+                                         font=fontfamily)
+        predicted_label_label.pack(expand=1)
+
+        true_label_label = tk.Label(
+            popup_window, text=f"Classe real: {classes[true_label]}",  font=fontfamily)
+        true_label_label.pack(expand=1)
+
+
+        pred_probs_label = tk.Label(popup_window, text="Certeza (probabilidades):", font=fontfamily)
+        pred_probs_label.pack(expand=1)
+        for key, value in pred_probs.items():
+            pred_prob_label = tk.Label(popup_window, text=f"{classes[key]}: {value}", font=fontfamily)
+            pred_prob_label.pack()
+
 
     def classify_four(self):
         print(f'callback classificador 4 classes ')
-        # ...
+        # curr_img_path = IMGS[self.index]
+
+        classes = {"1": "BIRADS I",
+                   "2": "BIRADS II",
+                   "3": "BIRADS III",
+                   "4": "BIRADS IV"}
+
+        predicted_label, true_label, time, pred_probs = predict(
+            self.curr_img_path, True)
+
+        print(f'pred_probs -> {pred_probs}')
+        print(f'predicted label -> {predicted_label}')
+        print(f'true label -> {true_label}')
+
+        fontfamily = ("Arial", 15)
+
+        popup_window = tk.Toplevel(self.master)
+        popup_window.title("Resultados")
+        popup_window.geometry("500x500")
+
+        time_label = tk.Label(
+                popup_window, text=f"Classificou em: {time:.4f} segundos",  font=fontfamily)
+        time_label.pack()
+
+        predicted_label_label = tk.Label(popup_window, text=f"Classe predita: {classes[predicted_label]}",
+                                         font=fontfamily)
+        predicted_label_label.pack(expand=1)
+
+        true_label_label = tk.Label(
+            popup_window, text=f"Classe real: {classes[true_label]}",  font=fontfamily)
+        true_label_label.pack(expand=1)
+
+
+        pred_probs_label = tk.Label(popup_window, text="Certeza (probabilidades):", font=fontfamily)
+        pred_probs_label.pack(expand=1)
+        for key, value in pred_probs.items():
+            pred_prob_label = tk.Label(popup_window, text=f"{classes[key]}: {value}", font=fontfamily)
+            pred_prob_label.pack()
+
+    def info_callback(self):
+        print(f'callback info ')
+        info = {
+            'accuracy': 0.8333333333333334,
+            'precision': 0.8954372623574145,
+            'recall': 0.7548076923076923,
+            'specificity': 0.9118589743589743,
+            'fone_score': 0.8191304347826087,
+            'time': 1014.721773147583
+        }
+
+        # Create a popup window
+        popup_window = tk.Toplevel(self.master)
+        popup_window.title("Resultados Classificador Binário")
+        popup_window.geometry("500x500")
+
+        fontfamily = ("Arial", 15)
+
+        title_label = tk.Label(popup_window, text="Resultados Classificador Binário", font=fontfamily)
+        title_label.pack(expand=1)
+
+        # Create and configure labels for each information
+        accuracy_label = tk.Label(popup_window, text=f"Acurácia: {info['accuracy']:.4f}", font=fontfamily)
+        accuracy_label.pack()
+
+        precision_label = tk.Label(popup_window, text=f"Precisão: {info['precision']:.4f}", font=fontfamily)
+        precision_label.pack()
+
+        recall_label = tk.Label(popup_window, text=f"Recall: {info['recall']:.4f}", font=fontfamily)
+        recall_label.pack()
+
+        specificity_label = tk.Label(popup_window, text=f"Especificidade: {info['specificity']:.4f}", font=fontfamily)
+        specificity_label.pack()
+
+        fone_score_label = tk.Label(popup_window, text=f"F1 Score: {info['fone_score']:.4f}", font=fontfamily)
+        fone_score_label.pack()
+
+        time_label = tk.Label(popup_window, text=f"Tempo classificando dataset de validação\n: {info['time']:.4f} segundos", font=fontfamily)
+        time_label.pack()
+
+    def info_callback_quat(self):
+        file_path = "./_graficos/confusion_matrix_4class.png"
+
+        # Create a popup window
+        popup_window = tk.Toplevel(self.master)
+        popup_window.title("Resultados Classificador Quaternário")
+        popup_window.geometry("640x480")
+        image = Image.open(file_path)
+        photo = ImageTk.PhotoImage(image)
+        label = tk.Label(popup_window, image=photo)
+        label.image = photo
+        label.pack()

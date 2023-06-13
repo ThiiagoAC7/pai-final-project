@@ -8,7 +8,6 @@ def window():
     app = Window(root)
     root.title(WINNAME)
     root.config(bg="#191919")
-    app.select_image(111)
     root.state('zoomed')
     root.mainloop()
 
