@@ -1,0 +1,2503 @@
+(0.8577) image -> 1\segmented_DleftCC (100).png
+         predicted_label->1_2, true_label->1_2
+(0.7835) image -> 1\segmented_DleftCC (104).png
+         predicted_label->1_2, true_label->1_2
+(0.7799) image -> 1\segmented_DleftCC (108).png
+         predicted_label->1_2, true_label->1_2
+(0.7627) image -> 1\segmented_DleftCC (112).png
+         predicted_label->1_2, true_label->1_2
+(0.7619) image -> 1\segmented_DleftCC (116).png
+         predicted_label->1_2, true_label->1_2
+(0.8622) image -> 1\segmented_DleftCC (12).png
+         predicted_label->1_2, true_label->1_2
+(0.7711) image -> 1\segmented_DleftCC (120).png
+         predicted_label->1_2, true_label->1_2
+(0.7419) image -> 1\segmented_DleftCC (124).png
+         predicted_label->1_2, true_label->1_2
+(0.7414) image -> 1\segmented_DleftCC (128).png
+         predicted_label->1_2, true_label->1_2
+(0.8097) image -> 1\segmented_DleftCC (132).png
+         predicted_label->1_2, true_label->1_2
+(0.7775) image -> 1\segmented_DleftCC (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7391) image -> 1\segmented_DleftCC (140).png
+         predicted_label->1_2, true_label->1_2
+(0.7471) image -> 1\segmented_DleftCC (144).png
+         predicted_label->1_2, true_label->1_2
+(0.7517) image -> 1\segmented_DleftCC (148).png
+         predicted_label->1_2, true_label->1_2
+(0.8345) image -> 1\segmented_DleftCC (152).png
+         predicted_label->1_2, true_label->1_2
+(0.8536) image -> 1\segmented_DleftCC (156).png
+         predicted_label->1_2, true_label->1_2
+(0.7884) image -> 1\segmented_DleftCC (16).png
+         predicted_label->1_2, true_label->1_2
+(0.8132) image -> 1\segmented_DleftCC (160).png
+         predicted_label->1_2, true_label->1_2
+(0.9122) image -> 1\segmented_DleftCC (164).png
+         predicted_label->1_2, true_label->1_2
+(0.7821) image -> 1\segmented_DleftCC (168).png
+         predicted_label->1_2, true_label->1_2
+(0.7666) image -> 1\segmented_DleftCC (172).png
+         predicted_label->1_2, true_label->1_2
+(0.7831) image -> 1\segmented_DleftCC (176).png
+         predicted_label->1_2, true_label->1_2
+(0.7864) image -> 1\segmented_DleftCC (180).png
+         predicted_label->1_2, true_label->1_2
+(0.8799) image -> 1\segmented_DleftCC (184).png
+         predicted_label->1_2, true_label->1_2
+(0.8094) image -> 1\segmented_DleftCC (188).png
+         predicted_label->1_2, true_label->1_2
+(0.7835) image -> 1\segmented_DleftCC (192).png
+         predicted_label->1_2, true_label->1_2
+(0.7581) image -> 1\segmented_DleftCC (196).png
+         predicted_label->1_2, true_label->1_2
+(0.8306) image -> 1\segmented_DleftCC (20).png
+         predicted_label->1_2, true_label->1_2
+(0.7461) image -> 1\segmented_DleftCC (200).png
+         predicted_label->1_2, true_label->1_2
+(0.7514) image -> 1\segmented_DleftCC (204).png
+         predicted_label->1_2, true_label->1_2
+(0.7643) image -> 1\segmented_DleftCC (208).png
+         predicted_label->1_2, true_label->1_2
+(0.7741) image -> 1\segmented_DleftCC (212).png
+         predicted_label->1_2, true_label->1_2
+(0.8473) image -> 1\segmented_DleftCC (216).png
+         predicted_label->1_2, true_label->1_2
+(0.8005) image -> 1\segmented_DleftCC (220).png
+         predicted_label->1_2, true_label->1_2
+(0.7856) image -> 1\segmented_DleftCC (224).png
+         predicted_label->1_2, true_label->1_2
+(0.8177) image -> 1\segmented_DleftCC (228).png
+         predicted_label->1_2, true_label->1_2
+(0.8670) image -> 1\segmented_DleftCC (232).png
+         predicted_label->1_2, true_label->1_2
+(0.7797) image -> 1\segmented_DleftCC (236).png
+         predicted_label->1_2, true_label->1_2
+(0.7660) image -> 1\segmented_DleftCC (24).png
+         predicted_label->1_2, true_label->1_2
+(0.7505) image -> 1\segmented_DleftCC (240).png
+         predicted_label->1_2, true_label->1_2
+(0.8092) image -> 1\segmented_DleftCC (244).png
+         predicted_label->1_2, true_label->1_2
+(0.7451) image -> 1\segmented_DleftCC (248).png
+         predicted_label->1_2, true_label->1_2
+(0.7482) image -> 1\segmented_DleftCC (252).png
+         predicted_label->1_2, true_label->1_2
+(0.7534) image -> 1\segmented_DleftCC (256).png
+         predicted_label->1_2, true_label->1_2
+(0.7938) image -> 1\segmented_DleftCC (260).png
+         predicted_label->1_2, true_label->1_2
+(0.8009) image -> 1\segmented_DleftCC (264).png
+         predicted_label->1_2, true_label->1_2
+(0.7472) image -> 1\segmented_DleftCC (268).png
+         predicted_label->1_2, true_label->1_2
+(0.7394) image -> 1\segmented_DleftCC (272).png
+         predicted_label->1_2, true_label->1_2
+(0.7492) image -> 1\segmented_DleftCC (276).png
+         predicted_label->1_2, true_label->1_2
+(0.8181) image -> 1\segmented_DleftCC (28).png
+         predicted_label->1_2, true_label->1_2
+(0.7379) image -> 1\segmented_DleftCC (280).png
+         predicted_label->1_2, true_label->1_2
+(0.7624) image -> 1\segmented_DleftCC (284).png
+         predicted_label->1_2, true_label->1_2
+(0.7304) image -> 1\segmented_DleftCC (288).png
+         predicted_label->1_2, true_label->1_2
+(0.8178) image -> 1\segmented_DleftCC (292).png
+         predicted_label->1_2, true_label->1_2
+(0.7392) image -> 1\segmented_DleftCC (296).png
+         predicted_label->1_2, true_label->1_2
+(0.7358) image -> 1\segmented_DleftCC (300).png
+         predicted_label->1_2, true_label->1_2
+(0.7710) image -> 1\segmented_DleftCC (304).png
+         predicted_label->3_4, true_label->1_2
+(0.7617) image -> 1\segmented_DleftCC (308).png
+         predicted_label->1_2, true_label->1_2
+(0.8406) image -> 1\segmented_DleftCC (312).png
+         predicted_label->1_2, true_label->1_2
+(0.7484) image -> 1\segmented_DleftCC (32).png
+         predicted_label->1_2, true_label->1_2
+(0.7396) image -> 1\segmented_DleftCC (36).png
+         predicted_label->1_2, true_label->1_2
+(0.8007) image -> 1\segmented_DleftCC (4).png
+         predicted_label->1_2, true_label->1_2
+(0.7880) image -> 1\segmented_DleftCC (40).png
+         predicted_label->1_2, true_label->1_2
+(0.8083) image -> 1\segmented_DleftCC (44).png
+         predicted_label->1_2, true_label->1_2
+(0.7328) image -> 1\segmented_DleftCC (48).png
+         predicted_label->1_2, true_label->1_2
+(0.7448) image -> 1\segmented_DleftCC (52).png
+         predicted_label->1_2, true_label->1_2
+(0.7644) image -> 1\segmented_DleftCC (56).png
+         predicted_label->1_2, true_label->1_2
+(0.8207) image -> 1\segmented_DleftCC (60).png
+         predicted_label->1_2, true_label->1_2
+(0.7582) image -> 1\segmented_DleftCC (64).png
+         predicted_label->1_2, true_label->1_2
+(0.7665) image -> 1\segmented_DleftCC (68).png
+         predicted_label->1_2, true_label->1_2
+(0.7904) image -> 1\segmented_DleftCC (72).png
+         predicted_label->1_2, true_label->1_2
+(0.7835) image -> 1\segmented_DleftCC (76).png
+         predicted_label->1_2, true_label->1_2
+(0.8584) image -> 1\segmented_DleftCC (8).png
+         predicted_label->1_2, true_label->1_2
+(0.7474) image -> 1\segmented_DleftCC (80).png
+         predicted_label->1_2, true_label->1_2
+(0.7476) image -> 1\segmented_DleftCC (84).png
+         predicted_label->1_2, true_label->1_2
+(0.7742) image -> 1\segmented_DleftCC (88).png
+         predicted_label->1_2, true_label->1_2
+(0.8122) image -> 1\segmented_DleftCC (92).png
+         predicted_label->1_2, true_label->1_2
+(0.7636) image -> 1\segmented_DleftCC (96).png
+         predicted_label->1_2, true_label->1_2
+(0.7725) image -> 1\segmented_DleftMLO (100).png
+         predicted_label->1_2, true_label->1_2
+(0.7810) image -> 1\segmented_DleftMLO (104).png
+         predicted_label->1_2, true_label->1_2
+(0.7566) image -> 1\segmented_DleftMLO (108).png
+         predicted_label->1_2, true_label->1_2
+(0.8075) image -> 1\segmented_DleftMLO (112).png
+         predicted_label->1_2, true_label->1_2
+(0.7586) image -> 1\segmented_DleftMLO (116).png
+         predicted_label->1_2, true_label->1_2
+(0.9528) image -> 1\segmented_DleftMLO (12).png
+         predicted_label->1_2, true_label->1_2
+(0.8470) image -> 1\segmented_DleftMLO (120).png
+         predicted_label->1_2, true_label->1_2
+(0.8183) image -> 1\segmented_DleftMLO (124).png
+         predicted_label->1_2, true_label->1_2
+(0.7765) image -> 1\segmented_DleftMLO (128).png
+         predicted_label->1_2, true_label->1_2
+(0.7695) image -> 1\segmented_DleftMLO (132).png
+         predicted_label->1_2, true_label->1_2
+(0.7554) image -> 1\segmented_DleftMLO (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7516) image -> 1\segmented_DleftMLO (140).png
+         predicted_label->1_2, true_label->1_2
+(0.7775) image -> 1\segmented_DleftMLO (144).png
+         predicted_label->1_2, true_label->1_2
+(0.7341) image -> 1\segmented_DleftMLO (148).png
+         predicted_label->1_2, true_label->1_2
+(0.7453) image -> 1\segmented_DleftMLO (152).png
+         predicted_label->1_2, true_label->1_2
+(0.7246) image -> 1\segmented_DleftMLO (156).png
+         predicted_label->1_2, true_label->1_2
+(0.8139) image -> 1\segmented_DleftMLO (16).png
+         predicted_label->1_2, true_label->1_2
+(0.7572) image -> 1\segmented_DleftMLO (160).png
+         predicted_label->1_2, true_label->1_2
+(0.7397) image -> 1\segmented_DleftMLO (164).png
+         predicted_label->1_2, true_label->1_2
+(0.7412) image -> 1\segmented_DleftMLO (168).png
+         predicted_label->1_2, true_label->1_2
+(0.7271) image -> 1\segmented_DleftMLO (172).png
+         predicted_label->1_2, true_label->1_2
+(0.8675) image -> 1\segmented_DleftMLO (176).png
+         predicted_label->1_2, true_label->1_2
+(0.7959) image -> 1\segmented_DleftMLO (180).png
+         predicted_label->1_2, true_label->1_2
+(0.8185) image -> 1\segmented_DleftMLO (184).png
+         predicted_label->1_2, true_label->1_2
+(0.7775) image -> 1\segmented_DleftMLO (188).png
+         predicted_label->1_2, true_label->1_2
+(0.8111) image -> 1\segmented_DleftMLO (192).png
+         predicted_label->1_2, true_label->1_2
+(0.7282) image -> 1\segmented_DleftMLO (196).png
+         predicted_label->1_2, true_label->1_2
+(0.7071) image -> 1\segmented_DleftMLO (20).png
+         predicted_label->1_2, true_label->1_2
+(0.7450) image -> 1\segmented_DleftMLO (200).png
+         predicted_label->1_2, true_label->1_2
+(0.7452) image -> 1\segmented_DleftMLO (204).png
+         predicted_label->1_2, true_label->1_2
+(0.7735) image -> 1\segmented_DleftMLO (208).png
+         predicted_label->1_2, true_label->1_2
+(0.7304) image -> 1\segmented_DleftMLO (212).png
+         predicted_label->1_2, true_label->1_2
+(0.7369) image -> 1\segmented_DleftMLO (216).png
+         predicted_label->1_2, true_label->1_2
+(0.7192) image -> 1\segmented_DleftMLO (220).png
+         predicted_label->1_2, true_label->1_2
+(0.8127) image -> 1\segmented_DleftMLO (224).png
+         predicted_label->1_2, true_label->1_2
+(0.7446) image -> 1\segmented_DleftMLO (228).png
+         predicted_label->1_2, true_label->1_2
+(0.7588) image -> 1\segmented_DleftMLO (232).png
+         predicted_label->1_2, true_label->1_2
+(0.7366) image -> 1\segmented_DleftMLO (236).png
+         predicted_label->1_2, true_label->1_2
+(0.7274) image -> 1\segmented_DleftMLO (24).png
+         predicted_label->1_2, true_label->1_2
+(0.7817) image -> 1\segmented_DleftMLO (240).png
+         predicted_label->1_2, true_label->1_2
+(0.7537) image -> 1\segmented_DleftMLO (244).png
+         predicted_label->1_2, true_label->1_2
+(0.7194) image -> 1\segmented_DleftMLO (248).png
+         predicted_label->1_2, true_label->1_2
+(0.7158) image -> 1\segmented_DleftMLO (252).png
+         predicted_label->1_2, true_label->1_2
+(0.8107) image -> 1\segmented_DleftMLO (256).png
+         predicted_label->1_2, true_label->1_2
+(0.7171) image -> 1\segmented_DleftMLO (260).png
+         predicted_label->1_2, true_label->1_2
+(0.7155) image -> 1\segmented_DleftMLO (264).png
+         predicted_label->1_2, true_label->1_2
+(0.7268) image -> 1\segmented_DleftMLO (268).png
+         predicted_label->1_2, true_label->1_2
+(0.7319) image -> 1\segmented_DleftMLO (272).png
+         predicted_label->1_2, true_label->1_2
+(0.8583) image -> 1\segmented_DleftMLO (276).png
+         predicted_label->1_2, true_label->1_2
+(0.7428) image -> 1\segmented_DleftMLO (28).png
+         predicted_label->1_2, true_label->1_2
+(0.7954) image -> 1\segmented_DleftMLO (280).png
+         predicted_label->1_2, true_label->1_2
+(0.8087) image -> 1\segmented_DleftMLO (284).png
+         predicted_label->1_2, true_label->1_2
+(0.8963) image -> 1\segmented_DleftMLO (288).png
+         predicted_label->1_2, true_label->1_2
+(0.7353) image -> 1\segmented_DleftMLO (292).png
+         predicted_label->1_2, true_label->1_2
+(0.7654) image -> 1\segmented_DleftMLO (296).png
+         predicted_label->1_2, true_label->1_2
+(0.7607) image -> 1\segmented_DleftMLO (300).png
+         predicted_label->1_2, true_label->1_2
+(0.7509) image -> 1\segmented_DleftMLO (304).png
+         predicted_label->3_4, true_label->1_2
+(0.8436) image -> 1\segmented_DleftMLO (308).png
+         predicted_label->1_2, true_label->1_2
+(0.7547) image -> 1\segmented_DleftMLO (312).png
+         predicted_label->1_2, true_label->1_2
+(0.7496) image -> 1\segmented_DleftMLO (32).png
+         predicted_label->1_2, true_label->1_2
+(0.7560) image -> 1\segmented_DleftMLO (36).png
+         predicted_label->1_2, true_label->1_2
+(0.8895) image -> 1\segmented_DleftMLO (4).png
+         predicted_label->1_2, true_label->1_2
+(0.7319) image -> 1\segmented_DleftMLO (40).png
+         predicted_label->1_2, true_label->1_2
+(0.7442) image -> 1\segmented_DleftMLO (44).png
+         predicted_label->1_2, true_label->1_2
+(0.7559) image -> 1\segmented_DleftMLO (48).png
+         predicted_label->1_2, true_label->1_2
+(0.7482) image -> 1\segmented_DleftMLO (52).png
+         predicted_label->1_2, true_label->1_2
+(0.8045) image -> 1\segmented_DleftMLO (56).png
+         predicted_label->1_2, true_label->1_2
+(0.7849) image -> 1\segmented_DleftMLO (60).png
+         predicted_label->1_2, true_label->1_2
+(0.7910) image -> 1\segmented_DleftMLO (64).png
+         predicted_label->1_2, true_label->1_2
+(0.7403) image -> 1\segmented_DleftMLO (68).png
+         predicted_label->1_2, true_label->1_2
+(0.8248) image -> 1\segmented_DleftMLO (72).png
+         predicted_label->1_2, true_label->1_2
+(0.7452) image -> 1\segmented_DleftMLO (76).png
+         predicted_label->1_2, true_label->1_2
+(0.7829) image -> 1\segmented_DleftMLO (8).png
+         predicted_label->1_2, true_label->1_2
+(0.7878) image -> 1\segmented_DleftMLO (80).png
+         predicted_label->1_2, true_label->1_2
+(0.7716) image -> 1\segmented_DleftMLO (84).png
+         predicted_label->1_2, true_label->1_2
+(0.8679) image -> 1\segmented_DleftMLO (88).png
+         predicted_label->1_2, true_label->1_2
+(0.7822) image -> 1\segmented_DleftMLO (92).png
+         predicted_label->1_2, true_label->1_2
+(0.7290) image -> 1\segmented_DleftMLO (96).png
+         predicted_label->1_2, true_label->1_2
+(0.7412) image -> 1\segmented_DrightCC (100).png
+         predicted_label->1_2, true_label->1_2
+(0.7957) image -> 1\segmented_DrightCC (104).png
+         predicted_label->1_2, true_label->1_2
+(0.7607) image -> 1\segmented_DrightCC (108).png
+         predicted_label->1_2, true_label->1_2
+(0.7405) image -> 1\segmented_DrightCC (112).png
+         predicted_label->1_2, true_label->1_2
+(0.7262) image -> 1\segmented_DrightCC (116).png
+         predicted_label->1_2, true_label->1_2
+(0.7680) image -> 1\segmented_DrightCC (12).png
+         predicted_label->1_2, true_label->1_2
+(0.7861) image -> 1\segmented_DrightCC (120).png
+         predicted_label->1_2, true_label->1_2
+(0.7618) image -> 1\segmented_DrightCC (124).png
+         predicted_label->1_2, true_label->1_2
+(0.7231) image -> 1\segmented_DrightCC (128).png
+         predicted_label->1_2, true_label->1_2
+(0.7608) image -> 1\segmented_DrightCC (132).png
+         predicted_label->1_2, true_label->1_2
+(0.8005) image -> 1\segmented_DrightCC (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7593) image -> 1\segmented_DrightCC (140).png
+         predicted_label->1_2, true_label->1_2
+(0.7165) image -> 1\segmented_DrightCC (144).png
+         predicted_label->1_2, true_label->1_2
+(0.7536) image -> 1\segmented_DrightCC (148).png
+         predicted_label->1_2, true_label->1_2
+(0.7354) image -> 1\segmented_DrightCC (152).png
+         predicted_label->1_2, true_label->1_2
+(0.8196) image -> 1\segmented_DrightCC (156).png
+         predicted_label->1_2, true_label->1_2
+(0.7314) image -> 1\segmented_DrightCC (16).png
+         predicted_label->1_2, true_label->1_2
+(0.7390) image -> 1\segmented_DrightCC (160).png
+         predicted_label->1_2, true_label->1_2
+(0.7301) image -> 1\segmented_DrightCC (164).png
+         predicted_label->1_2, true_label->1_2
+(0.7982) image -> 1\segmented_DrightCC (168).png
+         predicted_label->3_4, true_label->1_2
+(0.7318) image -> 1\segmented_DrightCC (172).png
+         predicted_label->1_2, true_label->1_2
+(0.7621) image -> 1\segmented_DrightCC (176).png
+         predicted_label->1_2, true_label->1_2
+(0.7414) image -> 1\segmented_DrightCC (180).png
+         predicted_label->1_2, true_label->1_2
+(0.7417) image -> 1\segmented_DrightCC (184).png
+         predicted_label->1_2, true_label->1_2
+(0.8108) image -> 1\segmented_DrightCC (188).png
+         predicted_label->1_2, true_label->1_2
+(0.7527) image -> 1\segmented_DrightCC (192).png
+         predicted_label->1_2, true_label->1_2
+(0.7397) image -> 1\segmented_DrightCC (196).png
+         predicted_label->1_2, true_label->1_2
+(0.7436) image -> 1\segmented_DrightCC (20).png
+         predicted_label->1_2, true_label->1_2
+(0.8605) image -> 1\segmented_DrightCC (200).png
+         predicted_label->1_2, true_label->1_2
+(0.7516) image -> 1\segmented_DrightCC (204).png
+         predicted_label->1_2, true_label->1_2
+(0.7501) image -> 1\segmented_DrightCC (208).png
+         predicted_label->1_2, true_label->1_2
+(0.7640) image -> 1\segmented_DrightCC (212).png
+         predicted_label->1_2, true_label->1_2
+(0.7728) image -> 1\segmented_DrightCC (216).png
+         predicted_label->1_2, true_label->1_2
+(0.8099) image -> 1\segmented_DrightCC (220).png
+         predicted_label->1_2, true_label->1_2
+(0.7669) image -> 1\segmented_DrightCC (224).png
+         predicted_label->1_2, true_label->1_2
+(0.7745) image -> 1\segmented_DrightCC (228).png
+         predicted_label->1_2, true_label->1_2
+(0.7803) image -> 1\segmented_DrightCC (232).png
+         predicted_label->3_4, true_label->1_2
+(0.8092) image -> 1\segmented_DrightCC (236).png
+         predicted_label->1_2, true_label->1_2
+(0.7378) image -> 1\segmented_DrightCC (24).png
+         predicted_label->1_2, true_label->1_2
+(0.7457) image -> 1\segmented_DrightCC (240).png
+         predicted_label->1_2, true_label->1_2
+(0.7509) image -> 1\segmented_DrightCC (244).png
+         predicted_label->1_2, true_label->1_2
+(0.7885) image -> 1\segmented_DrightCC (248).png
+         predicted_label->1_2, true_label->1_2
+(0.8263) image -> 1\segmented_DrightCC (252).png
+         predicted_label->1_2, true_label->1_2
+(0.7893) image -> 1\segmented_DrightCC (256).png
+         predicted_label->3_4, true_label->1_2
+(0.7446) image -> 1\segmented_DrightCC (260).png
+         predicted_label->1_2, true_label->1_2
+(0.7415) image -> 1\segmented_DrightCC (264).png
+         predicted_label->1_2, true_label->1_2
+(0.8315) image -> 1\segmented_DrightCC (268).png
+         predicted_label->1_2, true_label->1_2
+(0.7907) image -> 1\segmented_DrightCC (272).png
+         predicted_label->1_2, true_label->1_2
+(0.7609) image -> 1\segmented_DrightCC (276).png
+         predicted_label->1_2, true_label->1_2
+(0.8145) image -> 1\segmented_DrightCC (28).png
+         predicted_label->1_2, true_label->1_2
+(0.8105) image -> 1\segmented_DrightCC (280).png
+         predicted_label->1_2, true_label->1_2
+(0.8740) image -> 1\segmented_DrightCC (284).png
+         predicted_label->1_2, true_label->1_2
+(0.7780) image -> 1\segmented_DrightCC (288).png
+         predicted_label->1_2, true_label->1_2
+(0.7826) image -> 1\segmented_DrightCC (292).png
+         predicted_label->1_2, true_label->1_2
+(0.7739) image -> 1\segmented_DrightCC (296).png
+         predicted_label->1_2, true_label->1_2
+(0.8773) image -> 1\segmented_DrightCC (300).png
+         predicted_label->1_2, true_label->1_2
+(0.7950) image -> 1\segmented_DrightCC (304).png
+         predicted_label->1_2, true_label->1_2
+(0.7854) image -> 1\segmented_DrightCC (308).png
+         predicted_label->1_2, true_label->1_2
+(0.8282) image -> 1\segmented_DrightCC (312).png
+         predicted_label->1_2, true_label->1_2
+(1.0718) image -> 1\segmented_DrightCC (32).png
+         predicted_label->1_2, true_label->1_2
+(1.1149) image -> 1\segmented_DrightCC (36).png
+         predicted_label->1_2, true_label->1_2
+(1.0096) image -> 1\segmented_DrightCC (4).png
+         predicted_label->1_2, true_label->1_2
+(0.8534) image -> 1\segmented_DrightCC (40).png
+         predicted_label->1_2, true_label->1_2
+(0.8745) image -> 1\segmented_DrightCC (44).png
+         predicted_label->1_2, true_label->1_2
+(0.8752) image -> 1\segmented_DrightCC (48).png
+         predicted_label->1_2, true_label->1_2
+(0.7667) image -> 1\segmented_DrightCC (52).png
+         predicted_label->1_2, true_label->1_2
+(0.8034) image -> 1\segmented_DrightCC (56).png
+         predicted_label->1_2, true_label->1_2
+(0.7931) image -> 1\segmented_DrightCC (60).png
+         predicted_label->1_2, true_label->1_2
+(0.8167) image -> 1\segmented_DrightCC (64).png
+         predicted_label->1_2, true_label->1_2
+(0.8602) image -> 1\segmented_DrightCC (68).png
+         predicted_label->1_2, true_label->1_2
+(0.8167) image -> 1\segmented_DrightCC (72).png
+         predicted_label->1_2, true_label->1_2
+(0.7608) image -> 1\segmented_DrightCC (76).png
+         predicted_label->1_2, true_label->1_2
+(0.7594) image -> 1\segmented_DrightCC (8).png
+         predicted_label->1_2, true_label->1_2
+(0.8362) image -> 1\segmented_DrightCC (80).png
+         predicted_label->1_2, true_label->1_2
+(0.7302) image -> 1\segmented_DrightCC (84).png
+         predicted_label->1_2, true_label->1_2
+(0.7573) image -> 1\segmented_DrightCC (88).png
+         predicted_label->1_2, true_label->1_2
+(0.7475) image -> 1\segmented_DrightCC (92).png
+         predicted_label->1_2, true_label->1_2
+(0.7472) image -> 1\segmented_DrightCC (96).png
+         predicted_label->1_2, true_label->1_2
+(0.8097) image -> 1\segmented_DrightMLO (100).png
+         predicted_label->1_2, true_label->1_2
+(0.7488) image -> 1\segmented_DrightMLO (104).png
+         predicted_label->1_2, true_label->1_2
+(0.7538) image -> 1\segmented_DrightMLO (108).png
+         predicted_label->1_2, true_label->1_2
+(0.7779) image -> 1\segmented_DrightMLO (112).png
+         predicted_label->1_2, true_label->1_2
+(0.8722) image -> 1\segmented_DrightMLO (116).png
+         predicted_label->1_2, true_label->1_2
+(0.7623) image -> 1\segmented_DrightMLO (12).png
+         predicted_label->1_2, true_label->1_2
+(0.7447) image -> 1\segmented_DrightMLO (120).png
+         predicted_label->1_2, true_label->1_2
+(0.7576) image -> 1\segmented_DrightMLO (124).png
+         predicted_label->1_2, true_label->1_2
+(0.7664) image -> 1\segmented_DrightMLO (128).png
+         predicted_label->1_2, true_label->1_2
+(0.8798) image -> 1\segmented_DrightMLO (132).png
+         predicted_label->1_2, true_label->1_2
+(0.7869) image -> 1\segmented_DrightMLO (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7899) image -> 1\segmented_DrightMLO (140).png
+         predicted_label->1_2, true_label->1_2
+(0.8094) image -> 1\segmented_DrightMLO (144).png
+         predicted_label->1_2, true_label->1_2
+(0.8750) image -> 1\segmented_DrightMLO (148).png
+         predicted_label->1_2, true_label->1_2
+(0.7398) image -> 1\segmented_DrightMLO (152).png
+         predicted_label->1_2, true_label->1_2
+(0.7643) image -> 1\segmented_DrightMLO (156).png
+         predicted_label->1_2, true_label->1_2
+(0.7529) image -> 1\segmented_DrightMLO (16).png
+         predicted_label->1_2, true_label->1_2
+(0.7672) image -> 1\segmented_DrightMLO (160).png
+         predicted_label->1_2, true_label->1_2
+(0.8524) image -> 1\segmented_DrightMLO (164).png
+         predicted_label->1_2, true_label->1_2
+(0.7981) image -> 1\segmented_DrightMLO (168).png
+         predicted_label->1_2, true_label->1_2
+(0.8220) image -> 1\segmented_DrightMLO (172).png
+         predicted_label->1_2, true_label->1_2
+(0.7664) image -> 1\segmented_DrightMLO (176).png
+         predicted_label->1_2, true_label->1_2
+(0.8211) image -> 1\segmented_DrightMLO (180).png
+         predicted_label->1_2, true_label->1_2
+(0.7780) image -> 1\segmented_DrightMLO (184).png
+         predicted_label->1_2, true_label->1_2
+(0.7574) image -> 1\segmented_DrightMLO (188).png
+         predicted_label->1_2, true_label->1_2
+(0.7502) image -> 1\segmented_DrightMLO (192).png
+         predicted_label->1_2, true_label->1_2
+(0.7814) image -> 1\segmented_DrightMLO (196).png
+         predicted_label->1_2, true_label->1_2
+(0.8430) image -> 1\segmented_DrightMLO (20).png
+         predicted_label->1_2, true_label->1_2
+(0.7671) image -> 1\segmented_DrightMLO (200).png
+         predicted_label->1_2, true_label->1_2
+(0.7653) image -> 1\segmented_DrightMLO (204).png
+         predicted_label->1_2, true_label->1_2
+(0.7742) image -> 1\segmented_DrightMLO (208).png
+         predicted_label->1_2, true_label->1_2
+(0.8239) image -> 1\segmented_DrightMLO (212).png
+         predicted_label->1_2, true_label->1_2
+(0.7546) image -> 1\segmented_DrightMLO (216).png
+         predicted_label->1_2, true_label->1_2
+(0.7698) image -> 1\segmented_DrightMLO (220).png
+         predicted_label->1_2, true_label->1_2
+(0.8050) image -> 1\segmented_DrightMLO (224).png
+         predicted_label->1_2, true_label->1_2
+(0.8021) image -> 1\segmented_DrightMLO (228).png
+         predicted_label->1_2, true_label->1_2
+(0.8549) image -> 1\segmented_DrightMLO (232).png
+         predicted_label->1_2, true_label->1_2
+(0.8100) image -> 1\segmented_DrightMLO (236).png
+         predicted_label->1_2, true_label->1_2
+(0.8056) image -> 1\segmented_DrightMLO (24).png
+         predicted_label->1_2, true_label->1_2
+(0.7753) image -> 1\segmented_DrightMLO (240).png
+         predicted_label->1_2, true_label->1_2
+(0.9102) image -> 1\segmented_DrightMLO (244).png
+         predicted_label->1_2, true_label->1_2
+(0.7917) image -> 1\segmented_DrightMLO (248).png
+         predicted_label->1_2, true_label->1_2
+(0.7918) image -> 1\segmented_DrightMLO (252).png
+         predicted_label->1_2, true_label->1_2
+(0.7949) image -> 1\segmented_DrightMLO (256).png
+         predicted_label->1_2, true_label->1_2
+(0.7838) image -> 1\segmented_DrightMLO (260).png
+         predicted_label->1_2, true_label->1_2
+(0.8614) image -> 1\segmented_DrightMLO (264).png
+         predicted_label->1_2, true_label->1_2
+(0.7899) image -> 1\segmented_DrightMLO (268).png
+         predicted_label->1_2, true_label->1_2
+(0.8254) image -> 1\segmented_DrightMLO (272).png
+         predicted_label->1_2, true_label->1_2
+(0.8124) image -> 1\segmented_DrightMLO (276).png
+         predicted_label->1_2, true_label->1_2
+(0.8744) image -> 1\segmented_DrightMLO (28).png
+         predicted_label->1_2, true_label->1_2
+(0.7739) image -> 1\segmented_DrightMLO (280).png
+         predicted_label->1_2, true_label->1_2
+(0.7785) image -> 1\segmented_DrightMLO (284).png
+         predicted_label->1_2, true_label->1_2
+(0.7630) image -> 1\segmented_DrightMLO (288).png
+         predicted_label->1_2, true_label->1_2
+(0.7710) image -> 1\segmented_DrightMLO (292).png
+         predicted_label->1_2, true_label->1_2
+(0.8275) image -> 1\segmented_DrightMLO (296).png
+         predicted_label->1_2, true_label->1_2
+(0.7743) image -> 1\segmented_DrightMLO (300).png
+         predicted_label->1_2, true_label->1_2
+(0.8078) image -> 1\segmented_DrightMLO (304).png
+         predicted_label->1_2, true_label->1_2
+(0.7634) image -> 1\segmented_DrightMLO (308).png
+         predicted_label->1_2, true_label->1_2
+(0.8817) image -> 1\segmented_DrightMLO (312).png
+         predicted_label->1_2, true_label->1_2
+(0.7573) image -> 1\segmented_DrightMLO (32).png
+         predicted_label->1_2, true_label->1_2
+(0.7576) image -> 1\segmented_DrightMLO (36).png
+         predicted_label->1_2, true_label->1_2
+(0.8749) image -> 1\segmented_DrightMLO (4).png
+         predicted_label->1_2, true_label->1_2
+(0.7654) image -> 1\segmented_DrightMLO (40).png
+         predicted_label->1_2, true_label->1_2
+(0.8687) image -> 1\segmented_DrightMLO (44).png
+         predicted_label->1_2, true_label->1_2
+(0.8189) image -> 1\segmented_DrightMLO (48).png
+         predicted_label->1_2, true_label->1_2
+(0.7828) image -> 1\segmented_DrightMLO (52).png
+         predicted_label->1_2, true_label->1_2
+(0.7908) image -> 1\segmented_DrightMLO (56).png
+         predicted_label->1_2, true_label->1_2
+(0.8646) image -> 1\segmented_DrightMLO (60).png
+         predicted_label->1_2, true_label->1_2
+(0.7570) image -> 1\segmented_DrightMLO (64).png
+         predicted_label->1_2, true_label->1_2
+(0.7616) image -> 1\segmented_DrightMLO (68).png
+         predicted_label->1_2, true_label->1_2
+(0.7553) image -> 1\segmented_DrightMLO (72).png
+         predicted_label->1_2, true_label->1_2
+(0.7812) image -> 1\segmented_DrightMLO (76).png
+         predicted_label->1_2, true_label->1_2
+(0.8436) image -> 1\segmented_DrightMLO (8).png
+         predicted_label->1_2, true_label->1_2
+(0.7814) image -> 1\segmented_DrightMLO (80).png
+         predicted_label->1_2, true_label->1_2
+(0.8342) image -> 1\segmented_DrightMLO (84).png
+         predicted_label->1_2, true_label->1_2
+(0.7985) image -> 1\segmented_DrightMLO (88).png
+         predicted_label->1_2, true_label->1_2
+(0.8489) image -> 1\segmented_DrightMLO (92).png
+         predicted_label->1_2, true_label->1_2
+(0.8860) image -> 1\segmented_DrightMLO (96).png
+         predicted_label->1_2, true_label->1_2
+(0.8141) image -> 2\segmented_EleftCC (100).png
+         predicted_label->1_2, true_label->1_2
+(0.7833) image -> 2\segmented_EleftCC (104).png
+         predicted_label->1_2, true_label->1_2
+(0.7881) image -> 2\segmented_EleftCC (108).png
+         predicted_label->1_2, true_label->1_2
+(0.8286) image -> 2\segmented_EleftCC (112).png
+         predicted_label->3_4, true_label->1_2
+(0.7757) image -> 2\segmented_EleftCC (116).png
+         predicted_label->1_2, true_label->1_2
+(0.7855) image -> 2\segmented_EleftCC (12).png
+         predicted_label->1_2, true_label->1_2
+(0.7686) image -> 2\segmented_EleftCC (120).png
+         predicted_label->1_2, true_label->1_2
+(0.9134) image -> 2\segmented_EleftCC (124).png
+         predicted_label->1_2, true_label->1_2
+(0.7243) image -> 2\segmented_EleftCC (128).png
+         predicted_label->3_4, true_label->1_2
+(0.7764) image -> 2\segmented_EleftCC (132).png
+         predicted_label->1_2, true_label->1_2
+(0.7689) image -> 2\segmented_EleftCC (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7820) image -> 2\segmented_EleftCC (140).png
+         predicted_label->1_2, true_label->1_2
+(0.8603) image -> 2\segmented_EleftCC (144).png
+         predicted_label->1_2, true_label->1_2
+(0.7961) image -> 2\segmented_EleftCC (148).png
+         predicted_label->1_2, true_label->1_2
+(0.8017) image -> 2\segmented_EleftCC (152).png
+         predicted_label->1_2, true_label->1_2
+(0.7577) image -> 2\segmented_EleftCC (156).png
+         predicted_label->1_2, true_label->1_2
+(0.8902) image -> 2\segmented_EleftCC (16).png
+         predicted_label->3_4, true_label->1_2
+(0.7700) image -> 2\segmented_EleftCC (160).png
+         predicted_label->1_2, true_label->1_2
+(0.7594) image -> 2\segmented_EleftCC (164).png
+         predicted_label->1_2, true_label->1_2
+(0.7508) image -> 2\segmented_EleftCC (168).png
+         predicted_label->1_2, true_label->1_2
+(0.7541) image -> 2\segmented_EleftCC (172).png
+         predicted_label->3_4, true_label->1_2
+(0.8090) image -> 2\segmented_EleftCC (176).png
+         predicted_label->1_2, true_label->1_2
+(0.7176) image -> 2\segmented_EleftCC (180).png
+         predicted_label->1_2, true_label->1_2
+(0.7254) image -> 2\segmented_EleftCC (184).png
+         predicted_label->1_2, true_label->1_2
+(0.7505) image -> 2\segmented_EleftCC (188).png
+         predicted_label->1_2, true_label->1_2
+(0.8291) image -> 2\segmented_EleftCC (192).png
+         predicted_label->1_2, true_label->1_2
+(0.7479) image -> 2\segmented_EleftCC (196).png
+         predicted_label->1_2, true_label->1_2
+(0.7384) image -> 2\segmented_EleftCC (20).png
+         predicted_label->1_2, true_label->1_2
+(0.7042) image -> 2\segmented_EleftCC (200).png
+         predicted_label->1_2, true_label->1_2
+(0.7451) image -> 2\segmented_EleftCC (204).png
+         predicted_label->1_2, true_label->1_2
+(0.7915) image -> 2\segmented_EleftCC (208).png
+         predicted_label->1_2, true_label->1_2
+(0.7251) image -> 2\segmented_EleftCC (212).png
+         predicted_label->1_2, true_label->1_2
+(0.7537) image -> 2\segmented_EleftCC (216).png
+         predicted_label->1_2, true_label->1_2
+(0.7418) image -> 2\segmented_EleftCC (220).png
+         predicted_label->1_2, true_label->1_2
+(0.8237) image -> 2\segmented_EleftCC (224).png
+         predicted_label->1_2, true_label->1_2
+(0.7478) image -> 2\segmented_EleftCC (228).png
+         predicted_label->3_4, true_label->1_2
+(0.7783) image -> 2\segmented_EleftCC (232).png
+         predicted_label->1_2, true_label->1_2
+(0.7683) image -> 2\segmented_EleftCC (236).png
+         predicted_label->1_2, true_label->1_2
+(0.7548) image -> 2\segmented_EleftCC (24).png
+         predicted_label->1_2, true_label->1_2
+(0.8248) image -> 2\segmented_EleftCC (240).png
+         predicted_label->3_4, true_label->1_2
+(0.7977) image -> 2\segmented_EleftCC (244).png
+         predicted_label->1_2, true_label->1_2
+(0.7960) image -> 2\segmented_EleftCC (248).png
+         predicted_label->3_4, true_label->1_2
+(0.7635) image -> 2\segmented_EleftCC (252).png
+         predicted_label->1_2, true_label->1_2
+(0.8692) image -> 2\segmented_EleftCC (256).png
+         predicted_label->1_2, true_label->1_2
+(0.7673) image -> 2\segmented_EleftCC (260).png
+         predicted_label->1_2, true_label->1_2
+(0.7728) image -> 2\segmented_EleftCC (264).png
+         predicted_label->3_4, true_label->1_2
+(0.7444) image -> 2\segmented_EleftCC (268).png
+         predicted_label->1_2, true_label->1_2
+(0.7599) image -> 2\segmented_EleftCC (272).png
+         predicted_label->1_2, true_label->1_2
+(0.8018) image -> 2\segmented_EleftCC (276).png
+         predicted_label->1_2, true_label->1_2
+(0.7847) image -> 2\segmented_EleftCC (28).png
+         predicted_label->1_2, true_label->1_2
+(0.7474) image -> 2\segmented_EleftCC (280).png
+         predicted_label->1_2, true_label->1_2
+(0.7744) image -> 2\segmented_EleftCC (284).png
+         predicted_label->1_2, true_label->1_2
+(0.8485) image -> 2\segmented_EleftCC (288).png
+         predicted_label->1_2, true_label->1_2
+(0.7747) image -> 2\segmented_EleftCC (292).png
+         predicted_label->1_2, true_label->1_2
+(0.7644) image -> 2\segmented_EleftCC (296).png
+         predicted_label->1_2, true_label->1_2
+(0.7342) image -> 2\segmented_EleftCC (300).png
+         predicted_label->1_2, true_label->1_2
+(0.7612) image -> 2\segmented_EleftCC (304).png
+         predicted_label->1_2, true_label->1_2
+(0.8823) image -> 2\segmented_EleftCC (308).png
+         predicted_label->1_2, true_label->1_2
+(0.7403) image -> 2\segmented_EleftCC (312).png
+         predicted_label->1_2, true_label->1_2
+(0.7686) image -> 2\segmented_EleftCC (32).png
+         predicted_label->1_2, true_label->1_2
+(0.7250) image -> 2\segmented_EleftCC (36).png
+         predicted_label->1_2, true_label->1_2
+(0.8108) image -> 2\segmented_EleftCC (4).png
+         predicted_label->1_2, true_label->1_2
+(0.7381) image -> 2\segmented_EleftCC (40).png
+         predicted_label->1_2, true_label->1_2
+(0.7459) image -> 2\segmented_EleftCC (44).png
+         predicted_label->3_4, true_label->1_2
+(0.7379) image -> 2\segmented_EleftCC (48).png
+         predicted_label->1_2, true_label->1_2
+(0.8185) image -> 2\segmented_EleftCC (52).png
+         predicted_label->1_2, true_label->1_2
+(0.8093) image -> 2\segmented_EleftCC (56).png
+         predicted_label->1_2, true_label->1_2
+(0.7448) image -> 2\segmented_EleftCC (60).png
+         predicted_label->1_2, true_label->1_2
+(0.7989) image -> 2\segmented_EleftCC (64).png
+         predicted_label->1_2, true_label->1_2
+(0.8281) image -> 2\segmented_EleftCC (68).png
+         predicted_label->3_4, true_label->1_2
+(0.9084) image -> 2\segmented_EleftCC (72).png
+         predicted_label->1_2, true_label->1_2
+(0.9069) image -> 2\segmented_EleftCC (76).png
+         predicted_label->1_2, true_label->1_2
+(0.9754) image -> 2\segmented_EleftCC (8).png
+         predicted_label->1_2, true_label->1_2
+(0.9840) image -> 2\segmented_EleftCC (80).png
+         predicted_label->1_2, true_label->1_2
+(0.9629) image -> 2\segmented_EleftCC (84).png
+         predicted_label->1_2, true_label->1_2
+(0.8715) image -> 2\segmented_EleftCC (88).png
+         predicted_label->1_2, true_label->1_2
+(0.7760) image -> 2\segmented_EleftCC (92).png
+         predicted_label->3_4, true_label->1_2
+(0.8403) image -> 2\segmented_EleftCC (96).png
+         predicted_label->1_2, true_label->1_2
+(0.9317) image -> 2\segmented_EleftMLO (100).png
+         predicted_label->1_2, true_label->1_2
+(0.8714) image -> 2\segmented_EleftMLO (104).png
+         predicted_label->3_4, true_label->1_2
+(0.8245) image -> 2\segmented_EleftMLO (108).png
+         predicted_label->3_4, true_label->1_2
+(0.9131) image -> 2\segmented_EleftMLO (112).png
+         predicted_label->1_2, true_label->1_2
+(0.7878) image -> 2\segmented_EleftMLO (116).png
+         predicted_label->1_2, true_label->1_2
+(1.0028) image -> 2\segmented_EleftMLO (12).png
+         predicted_label->1_2, true_label->1_2
+(0.9409) image -> 2\segmented_EleftMLO (120).png
+         predicted_label->1_2, true_label->1_2
+(0.8485) image -> 2\segmented_EleftMLO (124).png
+         predicted_label->1_2, true_label->1_2
+(0.7539) image -> 2\segmented_EleftMLO (128).png
+         predicted_label->1_2, true_label->1_2
+(0.7525) image -> 2\segmented_EleftMLO (132).png
+         predicted_label->1_2, true_label->1_2
+(0.8752) image -> 2\segmented_EleftMLO (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7752) image -> 2\segmented_EleftMLO (140).png
+         predicted_label->1_2, true_label->1_2
+(0.7622) image -> 2\segmented_EleftMLO (144).png
+         predicted_label->1_2, true_label->1_2
+(0.7544) image -> 2\segmented_EleftMLO (148).png
+         predicted_label->1_2, true_label->1_2
+(0.7686) image -> 2\segmented_EleftMLO (152).png
+         predicted_label->1_2, true_label->1_2
+(0.8126) image -> 2\segmented_EleftMLO (156).png
+         predicted_label->1_2, true_label->1_2
+(0.7515) image -> 2\segmented_EleftMLO (16).png
+         predicted_label->3_4, true_label->1_2
+(0.7922) image -> 2\segmented_EleftMLO (160).png
+         predicted_label->3_4, true_label->1_2
+(0.7590) image -> 2\segmented_EleftMLO (164).png
+         predicted_label->1_2, true_label->1_2
+(0.8463) image -> 2\segmented_EleftMLO (168).png
+         predicted_label->1_2, true_label->1_2
+(0.7549) image -> 2\segmented_EleftMLO (172).png
+         predicted_label->3_4, true_label->1_2
+(0.7927) image -> 2\segmented_EleftMLO (176).png
+         predicted_label->1_2, true_label->1_2
+(0.7740) image -> 2\segmented_EleftMLO (180).png
+         predicted_label->1_2, true_label->1_2
+(0.8204) image -> 2\segmented_EleftMLO (184).png
+         predicted_label->3_4, true_label->1_2
+(0.9246) image -> 2\segmented_EleftMLO (188).png
+         predicted_label->1_2, true_label->1_2
+(0.8710) image -> 2\segmented_EleftMLO (192).png
+         predicted_label->1_2, true_label->1_2
+(0.7622) image -> 2\segmented_EleftMLO (196).png
+         predicted_label->1_2, true_label->1_2
+(0.8417) image -> 2\segmented_EleftMLO (20).png
+         predicted_label->1_2, true_label->1_2
+(0.9298) image -> 2\segmented_EleftMLO (200).png
+         predicted_label->1_2, true_label->1_2
+(0.7449) image -> 2\segmented_EleftMLO (204).png
+         predicted_label->1_2, true_label->1_2
+(0.7315) image -> 2\segmented_EleftMLO (208).png
+         predicted_label->1_2, true_label->1_2
+(0.8354) image -> 2\segmented_EleftMLO (212).png
+         predicted_label->1_2, true_label->1_2
+(0.7548) image -> 2\segmented_EleftMLO (216).png
+         predicted_label->1_2, true_label->1_2
+(0.8725) image -> 2\segmented_EleftMLO (220).png
+         predicted_label->1_2, true_label->1_2
+(1.0404) image -> 2\segmented_EleftMLO (224).png
+         predicted_label->3_4, true_label->1_2
+(0.8304) image -> 2\segmented_EleftMLO (228).png
+         predicted_label->1_2, true_label->1_2
+(1.0353) image -> 2\segmented_EleftMLO (232).png
+         predicted_label->3_4, true_label->1_2
+(1.1372) image -> 2\segmented_EleftMLO (236).png
+         predicted_label->3_4, true_label->1_2
+(0.9981) image -> 2\segmented_EleftMLO (24).png
+         predicted_label->1_2, true_label->1_2
+(1.0296) image -> 2\segmented_EleftMLO (240).png
+         predicted_label->3_4, true_label->1_2
+(1.0023) image -> 2\segmented_EleftMLO (244).png
+         predicted_label->1_2, true_label->1_2
+(0.9635) image -> 2\segmented_EleftMLO (248).png
+         predicted_label->1_2, true_label->1_2
+(1.1504) image -> 2\segmented_EleftMLO (252).png
+         predicted_label->1_2, true_label->1_2
+(0.8070) image -> 2\segmented_EleftMLO (256).png
+         predicted_label->1_2, true_label->1_2
+(0.9426) image -> 2\segmented_EleftMLO (260).png
+         predicted_label->1_2, true_label->1_2
+(0.9178) image -> 2\segmented_EleftMLO (264).png
+         predicted_label->1_2, true_label->1_2
+(0.8712) image -> 2\segmented_EleftMLO (268).png
+         predicted_label->3_4, true_label->1_2
+(0.8523) image -> 2\segmented_EleftMLO (272).png
+         predicted_label->3_4, true_label->1_2
+(0.9673) image -> 2\segmented_EleftMLO (276).png
+         predicted_label->1_2, true_label->1_2
+(0.9126) image -> 2\segmented_EleftMLO (28).png
+         predicted_label->1_2, true_label->1_2
+(0.8602) image -> 2\segmented_EleftMLO (280).png
+         predicted_label->1_2, true_label->1_2
+(0.8927) image -> 2\segmented_EleftMLO (284).png
+         predicted_label->1_2, true_label->1_2
+(0.7718) image -> 2\segmented_EleftMLO (288).png
+         predicted_label->1_2, true_label->1_2
+(0.7880) image -> 2\segmented_EleftMLO (292).png
+         predicted_label->1_2, true_label->1_2
+(0.7754) image -> 2\segmented_EleftMLO (296).png
+         predicted_label->1_2, true_label->1_2
+(0.8479) image -> 2\segmented_EleftMLO (300).png
+         predicted_label->1_2, true_label->1_2
+(0.8320) image -> 2\segmented_EleftMLO (304).png
+         predicted_label->1_2, true_label->1_2
+(0.7789) image -> 2\segmented_EleftMLO (308).png
+         predicted_label->1_2, true_label->1_2
+(0.7503) image -> 2\segmented_EleftMLO (312).png
+         predicted_label->1_2, true_label->1_2
+(0.7636) image -> 2\segmented_EleftMLO (32).png
+         predicted_label->1_2, true_label->1_2
+(0.8128) image -> 2\segmented_EleftMLO (36).png
+         predicted_label->1_2, true_label->1_2
+(0.8616) image -> 2\segmented_EleftMLO (4).png
+         predicted_label->1_2, true_label->1_2
+(0.8342) image -> 2\segmented_EleftMLO (40).png
+         predicted_label->1_2, true_label->1_2
+(0.7518) image -> 2\segmented_EleftMLO (44).png
+         predicted_label->1_2, true_label->1_2
+(0.8838) image -> 2\segmented_EleftMLO (48).png
+         predicted_label->1_2, true_label->1_2
+(0.7898) image -> 2\segmented_EleftMLO (52).png
+         predicted_label->1_2, true_label->1_2
+(0.7607) image -> 2\segmented_EleftMLO (56).png
+         predicted_label->1_2, true_label->1_2
+(0.7694) image -> 2\segmented_EleftMLO (60).png
+         predicted_label->1_2, true_label->1_2
+(0.7491) image -> 2\segmented_EleftMLO (64).png
+         predicted_label->1_2, true_label->1_2
+(0.8296) image -> 2\segmented_EleftMLO (68).png
+         predicted_label->1_2, true_label->1_2
+(0.7664) image -> 2\segmented_EleftMLO (72).png
+         predicted_label->1_2, true_label->1_2
+(0.7503) image -> 2\segmented_EleftMLO (76).png
+         predicted_label->1_2, true_label->1_2
+(0.7523) image -> 2\segmented_EleftMLO (8).png
+         predicted_label->1_2, true_label->1_2
+(0.8322) image -> 2\segmented_EleftMLO (80).png
+         predicted_label->1_2, true_label->1_2
+(0.7886) image -> 2\segmented_EleftMLO (84).png
+         predicted_label->1_2, true_label->1_2
+(0.7721) image -> 2\segmented_EleftMLO (88).png
+         predicted_label->3_4, true_label->1_2
+(0.7630) image -> 2\segmented_EleftMLO (92).png
+         predicted_label->3_4, true_label->1_2
+(0.7719) image -> 2\segmented_EleftMLO (96).png
+         predicted_label->1_2, true_label->1_2
+(0.8122) image -> 2\segmented_ErightCC (100).png
+         predicted_label->1_2, true_label->1_2
+(0.7892) image -> 2\segmented_ErightCC (104).png
+         predicted_label->1_2, true_label->1_2
+(0.7790) image -> 2\segmented_ErightCC (108).png
+         predicted_label->1_2, true_label->1_2
+(0.7971) image -> 2\segmented_ErightCC (112).png
+         predicted_label->1_2, true_label->1_2
+(0.8321) image -> 2\segmented_ErightCC (116).png
+         predicted_label->1_2, true_label->1_2
+(0.7775) image -> 2\segmented_ErightCC (12).png
+         predicted_label->1_2, true_label->1_2
+(0.7596) image -> 2\segmented_ErightCC (120).png
+         predicted_label->1_2, true_label->1_2
+(0.7568) image -> 2\segmented_ErightCC (124).png
+         predicted_label->3_4, true_label->1_2
+(0.7808) image -> 2\segmented_ErightCC (128).png
+         predicted_label->1_2, true_label->1_2
+(0.8314) image -> 2\segmented_ErightCC (132).png
+         predicted_label->1_2, true_label->1_2
+(0.7708) image -> 2\segmented_ErightCC (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7517) image -> 2\segmented_ErightCC (140).png
+         predicted_label->1_2, true_label->1_2
+(0.7925) image -> 2\segmented_ErightCC (144).png
+         predicted_label->1_2, true_label->1_2
+(0.8103) image -> 2\segmented_ErightCC (148).png
+         predicted_label->1_2, true_label->1_2
+(0.9273) image -> 2\segmented_ErightCC (152).png
+         predicted_label->1_2, true_label->1_2
+(0.9210) image -> 2\segmented_ErightCC (156).png
+         predicted_label->1_2, true_label->1_2
+(0.9883) image -> 2\segmented_ErightCC (16).png
+         predicted_label->1_2, true_label->1_2
+(0.9358) image -> 2\segmented_ErightCC (160).png
+         predicted_label->1_2, true_label->1_2
+(0.9957) image -> 2\segmented_ErightCC (164).png
+         predicted_label->1_2, true_label->1_2
+(0.8171) image -> 2\segmented_ErightCC (168).png
+         predicted_label->3_4, true_label->1_2
+(0.7640) image -> 2\segmented_ErightCC (172).png
+         predicted_label->3_4, true_label->1_2
+(0.7625) image -> 2\segmented_ErightCC (176).png
+         predicted_label->1_2, true_label->1_2
+(0.8372) image -> 2\segmented_ErightCC (180).png
+         predicted_label->1_2, true_label->1_2
+(0.8090) image -> 2\segmented_ErightCC (184).png
+         predicted_label->3_4, true_label->1_2
+(0.8507) image -> 2\segmented_ErightCC (188).png
+         predicted_label->1_2, true_label->1_2
+(0.8416) image -> 2\segmented_ErightCC (192).png
+         predicted_label->1_2, true_label->1_2
+(0.8161) image -> 2\segmented_ErightCC (196).png
+         predicted_label->3_4, true_label->1_2
+(0.8080) image -> 2\segmented_ErightCC (20).png
+         predicted_label->1_2, true_label->1_2
+(0.7582) image -> 2\segmented_ErightCC (200).png
+         predicted_label->1_2, true_label->1_2
+(0.8268) image -> 2\segmented_ErightCC (204).png
+         predicted_label->1_2, true_label->1_2
+(0.7851) image -> 2\segmented_ErightCC (208).png
+         predicted_label->1_2, true_label->1_2
+(0.8458) image -> 2\segmented_ErightCC (212).png
+         predicted_label->1_2, true_label->1_2
+(0.7577) image -> 2\segmented_ErightCC (216).png
+         predicted_label->1_2, true_label->1_2
+(0.7694) image -> 2\segmented_ErightCC (220).png
+         predicted_label->1_2, true_label->1_2
+(0.7594) image -> 2\segmented_ErightCC (224).png
+         predicted_label->3_4, true_label->1_2
+(0.7711) image -> 2\segmented_ErightCC (228).png
+         predicted_label->1_2, true_label->1_2
+(0.8287) image -> 2\segmented_ErightCC (232).png
+         predicted_label->3_4, true_label->1_2
+(0.7545) image -> 2\segmented_ErightCC (236).png
+         predicted_label->1_2, true_label->1_2
+(0.7846) image -> 2\segmented_ErightCC (24).png
+         predicted_label->1_2, true_label->1_2
+(0.7761) image -> 2\segmented_ErightCC (240).png
+         predicted_label->3_4, true_label->1_2
+(0.8445) image -> 2\segmented_ErightCC (244).png
+         predicted_label->1_2, true_label->1_2
+(0.7650) image -> 2\segmented_ErightCC (248).png
+         predicted_label->1_2, true_label->1_2
+(0.8175) image -> 2\segmented_ErightCC (252).png
+         predicted_label->1_2, true_label->1_2
+(0.7151) image -> 2\segmented_ErightCC (256).png
+         predicted_label->3_4, true_label->1_2
+(0.7620) image -> 2\segmented_ErightCC (260).png
+         predicted_label->3_4, true_label->1_2
+(0.7909) image -> 2\segmented_ErightCC (264).png
+         predicted_label->1_2, true_label->1_2
+(0.7453) image -> 2\segmented_ErightCC (268).png
+         predicted_label->1_2, true_label->1_2
+(0.7829) image -> 2\segmented_ErightCC (272).png
+         predicted_label->3_4, true_label->1_2
+(0.7247) image -> 2\segmented_ErightCC (276).png
+         predicted_label->3_4, true_label->1_2
+(0.9191) image -> 2\segmented_ErightCC (28).png
+         predicted_label->1_2, true_label->1_2
+(0.8881) image -> 2\segmented_ErightCC (280).png
+         predicted_label->1_2, true_label->1_2
+(0.8317) image -> 2\segmented_ErightCC (284).png
+         predicted_label->1_2, true_label->1_2
+(0.7507) image -> 2\segmented_ErightCC (288).png
+         predicted_label->1_2, true_label->1_2
+(0.7928) image -> 2\segmented_ErightCC (292).png
+         predicted_label->1_2, true_label->1_2
+(0.8416) image -> 2\segmented_ErightCC (296).png
+         predicted_label->1_2, true_label->1_2
+(0.7562) image -> 2\segmented_ErightCC (300).png
+         predicted_label->1_2, true_label->1_2
+(0.8595) image -> 2\segmented_ErightCC (304).png
+         predicted_label->1_2, true_label->1_2
+(0.7747) image -> 2\segmented_ErightCC (308).png
+         predicted_label->1_2, true_label->1_2
+(0.8881) image -> 2\segmented_ErightCC (312).png
+         predicted_label->1_2, true_label->1_2
+(0.8354) image -> 2\segmented_ErightCC (32).png
+         predicted_label->1_2, true_label->1_2
+(0.7601) image -> 2\segmented_ErightCC (36).png
+         predicted_label->3_4, true_label->1_2
+(0.7367) image -> 2\segmented_ErightCC (4).png
+         predicted_label->1_2, true_label->1_2
+(0.8310) image -> 2\segmented_ErightCC (40).png
+         predicted_label->1_2, true_label->1_2
+(0.8867) image -> 2\segmented_ErightCC (44).png
+         predicted_label->1_2, true_label->1_2
+(0.7971) image -> 2\segmented_ErightCC (48).png
+         predicted_label->1_2, true_label->1_2
+(0.7966) image -> 2\segmented_ErightCC (52).png
+         predicted_label->1_2, true_label->1_2
+(0.7538) image -> 2\segmented_ErightCC (56).png
+         predicted_label->1_2, true_label->1_2
+(0.8655) image -> 2\segmented_ErightCC (60).png
+         predicted_label->1_2, true_label->1_2
+(0.7596) image -> 2\segmented_ErightCC (64).png
+         predicted_label->1_2, true_label->1_2
+(0.7822) image -> 2\segmented_ErightCC (68).png
+         predicted_label->1_2, true_label->1_2
+(0.7970) image -> 2\segmented_ErightCC (72).png
+         predicted_label->3_4, true_label->1_2
+(0.7834) image -> 2\segmented_ErightCC (76).png
+         predicted_label->1_2, true_label->1_2
+(0.8164) image -> 2\segmented_ErightCC (8).png
+         predicted_label->3_4, true_label->1_2
+(0.7931) image -> 2\segmented_ErightCC (80).png
+         predicted_label->1_2, true_label->1_2
+(0.7789) image -> 2\segmented_ErightCC (84).png
+         predicted_label->1_2, true_label->1_2
+(0.7722) image -> 2\segmented_ErightCC (88).png
+         predicted_label->3_4, true_label->1_2
+(0.8192) image -> 2\segmented_ErightCC (92).png
+         predicted_label->1_2, true_label->1_2
+(0.7446) image -> 2\segmented_ErightCC (96).png
+         predicted_label->3_4, true_label->1_2
+(0.7888) image -> 2\segmented_ErightMLO (100).png
+         predicted_label->1_2, true_label->1_2
+(0.7754) image -> 2\segmented_ErightMLO (104).png
+         predicted_label->1_2, true_label->1_2
+(0.7649) image -> 2\segmented_ErightMLO (108).png
+         predicted_label->1_2, true_label->1_2
+(0.8071) image -> 2\segmented_ErightMLO (112).png
+         predicted_label->1_2, true_label->1_2
+(0.7576) image -> 2\segmented_ErightMLO (116).png
+         predicted_label->3_4, true_label->1_2
+(0.7411) image -> 2\segmented_ErightMLO (12).png
+         predicted_label->3_4, true_label->1_2
+(0.8137) image -> 2\segmented_ErightMLO (120).png
+         predicted_label->1_2, true_label->1_2
+(0.9759) image -> 2\segmented_ErightMLO (124).png
+         predicted_label->1_2, true_label->1_2
+(0.8138) image -> 2\segmented_ErightMLO (128).png
+         predicted_label->1_2, true_label->1_2
+(0.7568) image -> 2\segmented_ErightMLO (132).png
+         predicted_label->1_2, true_label->1_2
+(0.7540) image -> 2\segmented_ErightMLO (136).png
+         predicted_label->1_2, true_label->1_2
+(0.7571) image -> 2\segmented_ErightMLO (140).png
+         predicted_label->1_2, true_label->1_2
+(0.7913) image -> 2\segmented_ErightMLO (144).png
+         predicted_label->1_2, true_label->1_2
+(0.7292) image -> 2\segmented_ErightMLO (148).png
+         predicted_label->1_2, true_label->1_2
+(0.7312) image -> 2\segmented_ErightMLO (152).png
+         predicted_label->1_2, true_label->1_2
+(0.8248) image -> 2\segmented_ErightMLO (156).png
+         predicted_label->3_4, true_label->1_2
+(0.8174) image -> 2\segmented_ErightMLO (16).png
+         predicted_label->1_2, true_label->1_2
+(0.7684) image -> 2\segmented_ErightMLO (160).png
+         predicted_label->1_2, true_label->1_2
+(0.7838) image -> 2\segmented_ErightMLO (164).png
+         predicted_label->1_2, true_label->1_2
+(0.7752) image -> 2\segmented_ErightMLO (168).png
+         predicted_label->1_2, true_label->1_2
+(0.8051) image -> 2\segmented_ErightMLO (172).png
+         predicted_label->1_2, true_label->1_2
+(0.8355) image -> 2\segmented_ErightMLO (176).png
+         predicted_label->1_2, true_label->1_2
+(0.7707) image -> 2\segmented_ErightMLO (180).png
+         predicted_label->1_2, true_label->1_2
+(0.7764) image -> 2\segmented_ErightMLO (184).png
+         predicted_label->1_2, true_label->1_2
+(0.7665) image -> 2\segmented_ErightMLO (188).png
+         predicted_label->1_2, true_label->1_2
+(0.8283) image -> 2\segmented_ErightMLO (192).png
+         predicted_label->1_2, true_label->1_2
+(0.7756) image -> 2\segmented_ErightMLO (196).png
+         predicted_label->1_2, true_label->1_2
+(0.7758) image -> 2\segmented_ErightMLO (20).png
+         predicted_label->3_4, true_label->1_2
+(0.7718) image -> 2\segmented_ErightMLO (200).png
+         predicted_label->1_2, true_label->1_2
+(0.7633) image -> 2\segmented_ErightMLO (204).png
+         predicted_label->3_4, true_label->1_2
+(0.9381) image -> 2\segmented_ErightMLO (208).png
+         predicted_label->1_2, true_label->1_2
+(0.7711) image -> 2\segmented_ErightMLO (212).png
+         predicted_label->3_4, true_label->1_2
+(0.8304) image -> 2\segmented_ErightMLO (216).png
+         predicted_label->1_2, true_label->1_2
+(0.7837) image -> 2\segmented_ErightMLO (220).png
+         predicted_label->1_2, true_label->1_2
+(0.8337) image -> 2\segmented_ErightMLO (224).png
+         predicted_label->1_2, true_label->1_2
+(0.7491) image -> 2\segmented_ErightMLO (228).png
+         predicted_label->1_2, true_label->1_2
+(0.7800) image -> 2\segmented_ErightMLO (232).png
+         predicted_label->1_2, true_label->1_2
+(0.7631) image -> 2\segmented_ErightMLO (236).png
+         predicted_label->1_2, true_label->1_2
+(0.8360) image -> 2\segmented_ErightMLO (24).png
+         predicted_label->1_2, true_label->1_2
+(0.8229) image -> 2\segmented_ErightMLO (240).png
+         predicted_label->1_2, true_label->1_2
+(0.7329) image -> 2\segmented_ErightMLO (244).png
+         predicted_label->1_2, true_label->1_2
+(0.7293) image -> 2\segmented_ErightMLO (248).png
+         predicted_label->1_2, true_label->1_2
+(0.7553) image -> 2\segmented_ErightMLO (252).png
+         predicted_label->1_2, true_label->1_2
+(0.8170) image -> 2\segmented_ErightMLO (256).png
+         predicted_label->1_2, true_label->1_2
+(0.7378) image -> 2\segmented_ErightMLO (260).png
+         predicted_label->1_2, true_label->1_2
+(0.7535) image -> 2\segmented_ErightMLO (264).png
+         predicted_label->1_2, true_label->1_2
+(0.7508) image -> 2\segmented_ErightMLO (268).png
+         predicted_label->1_2, true_label->1_2
+(0.7380) image -> 2\segmented_ErightMLO (272).png
+         predicted_label->1_2, true_label->1_2
+(0.7862) image -> 2\segmented_ErightMLO (276).png
+         predicted_label->1_2, true_label->1_2
+(0.7493) image -> 2\segmented_ErightMLO (28).png
+         predicted_label->1_2, true_label->1_2
+(0.7482) image -> 2\segmented_ErightMLO (280).png
+         predicted_label->1_2, true_label->1_2
+(0.7633) image -> 2\segmented_ErightMLO (284).png
+         predicted_label->1_2, true_label->1_2
+(0.8300) image -> 2\segmented_ErightMLO (288).png
+         predicted_label->1_2, true_label->1_2
+(0.7538) image -> 2\segmented_ErightMLO (292).png
+         predicted_label->1_2, true_label->1_2
+(0.7582) image -> 2\segmented_ErightMLO (296).png
+         predicted_label->1_2, true_label->1_2
+(0.7887) image -> 2\segmented_ErightMLO (300).png
+         predicted_label->1_2, true_label->1_2
+(0.7962) image -> 2\segmented_ErightMLO (304).png
+         predicted_label->1_2, true_label->1_2
+(0.9132) image -> 2\segmented_ErightMLO (308).png
+         predicted_label->1_2, true_label->1_2
+(0.8911) image -> 2\segmented_ErightMLO (312).png
+         predicted_label->1_2, true_label->1_2
+(0.8945) image -> 2\segmented_ErightMLO (32).png
+         predicted_label->1_2, true_label->1_2
+(0.9040) image -> 2\segmented_ErightMLO (36).png
+         predicted_label->1_2, true_label->1_2
+(0.8631) image -> 2\segmented_ErightMLO (4).png
+         predicted_label->1_2, true_label->1_2
+(0.7605) image -> 2\segmented_ErightMLO (40).png
+         predicted_label->1_2, true_label->1_2
+(0.7882) image -> 2\segmented_ErightMLO (44).png
+         predicted_label->1_2, true_label->1_2
+(0.8713) image -> 2\segmented_ErightMLO (48).png
+         predicted_label->1_2, true_label->1_2
+(0.7815) image -> 2\segmented_ErightMLO (52).png
+         predicted_label->1_2, true_label->1_2
+(0.8197) image -> 2\segmented_ErightMLO (56).png
+         predicted_label->3_4, true_label->1_2
+(0.7378) image -> 2\segmented_ErightMLO (60).png
+         predicted_label->1_2, true_label->1_2
+(0.7412) image -> 2\segmented_ErightMLO (64).png
+         predicted_label->1_2, true_label->1_2
+(0.7396) image -> 2\segmented_ErightMLO (68).png
+         predicted_label->1_2, true_label->1_2
+(0.8646) image -> 2\segmented_ErightMLO (72).png
+         predicted_label->3_4, true_label->1_2
+(0.7543) image -> 2\segmented_ErightMLO (76).png
+         predicted_label->1_2, true_label->1_2
+(0.7612) image -> 2\segmented_ErightMLO (8).png
+         predicted_label->1_2, true_label->1_2
+(0.7610) image -> 2\segmented_ErightMLO (80).png
+         predicted_label->1_2, true_label->1_2
+(0.7914) image -> 2\segmented_ErightMLO (84).png
+         predicted_label->1_2, true_label->1_2
+(0.8014) image -> 2\segmented_ErightMLO (88).png
+         predicted_label->1_2, true_label->1_2
+(0.7845) image -> 2\segmented_ErightMLO (92).png
+         predicted_label->1_2, true_label->1_2
+(0.7455) image -> 2\segmented_ErightMLO (96).png
+         predicted_label->1_2, true_label->1_2
+(0.7391) image -> 3\segmented_FleftCC (100).png
+         predicted_label->1_2, true_label->3_4
+(0.8126) image -> 3\segmented_FleftCC (104).png
+         predicted_label->3_4, true_label->3_4
+(0.7339) image -> 3\segmented_FleftCC (108).png
+         predicted_label->3_4, true_label->3_4
+(0.8197) image -> 3\segmented_FleftCC (112).png
+         predicted_label->3_4, true_label->3_4
+(0.7399) image -> 3\segmented_FleftCC (116).png
+         predicted_label->1_2, true_label->3_4
+(0.7692) image -> 3\segmented_FleftCC (12).png
+         predicted_label->3_4, true_label->3_4
+(0.8083) image -> 3\segmented_FleftCC (120).png
+         predicted_label->3_4, true_label->3_4
+(0.7549) image -> 3\segmented_FleftCC (124).png
+         predicted_label->3_4, true_label->3_4
+(0.7635) image -> 3\segmented_FleftCC (128).png
+         predicted_label->1_2, true_label->3_4
+(0.7605) image -> 3\segmented_FleftCC (132).png
+         predicted_label->3_4, true_label->3_4
+(0.8114) image -> 3\segmented_FleftCC (136).png
+         predicted_label->1_2, true_label->3_4
+(0.7612) image -> 3\segmented_FleftCC (140).png
+         predicted_label->1_2, true_label->3_4
+(0.7684) image -> 3\segmented_FleftCC (144).png
+         predicted_label->1_2, true_label->3_4
+(0.7657) image -> 3\segmented_FleftCC (148).png
+         predicted_label->1_2, true_label->3_4
+(0.7504) image -> 3\segmented_FleftCC (152).png
+         predicted_label->3_4, true_label->3_4
+(0.8246) image -> 3\segmented_FleftCC (156).png
+         predicted_label->3_4, true_label->3_4
+(0.7345) image -> 3\segmented_FleftCC (16).png
+         predicted_label->3_4, true_label->3_4
+(0.7627) image -> 3\segmented_FleftCC (160).png
+         predicted_label->3_4, true_label->3_4
+(0.8728) image -> 3\segmented_FleftCC (164).png
+         predicted_label->3_4, true_label->3_4
+(0.8995) image -> 3\segmented_FleftCC (168).png
+         predicted_label->3_4, true_label->3_4
+(0.7667) image -> 3\segmented_FleftCC (172).png
+         predicted_label->3_4, true_label->3_4
+(0.7516) image -> 3\segmented_FleftCC (176).png
+         predicted_label->3_4, true_label->3_4
+(0.7705) image -> 3\segmented_FleftCC (180).png
+         predicted_label->3_4, true_label->3_4
+(0.7306) image -> 3\segmented_FleftCC (184).png
+         predicted_label->3_4, true_label->3_4
+(0.8352) image -> 3\segmented_FleftCC (188).png
+         predicted_label->3_4, true_label->3_4
+(0.7810) image -> 3\segmented_FleftCC (192).png
+         predicted_label->3_4, true_label->3_4
+(0.7441) image -> 3\segmented_FleftCC (196).png
+         predicted_label->3_4, true_label->3_4
+(0.7664) image -> 3\segmented_FleftCC (20).png
+         predicted_label->3_4, true_label->3_4
+(0.9773) image -> 3\segmented_FleftCC (200).png
+         predicted_label->3_4, true_label->3_4
+(0.8881) image -> 3\segmented_FleftCC (204).png
+         predicted_label->1_2, true_label->3_4
+(0.8752) image -> 3\segmented_FleftCC (208).png
+         predicted_label->1_2, true_label->3_4
+(0.8354) image -> 3\segmented_FleftCC (212).png
+         predicted_label->1_2, true_label->3_4
+(0.7617) image -> 3\segmented_FleftCC (216).png
+         predicted_label->1_2, true_label->3_4
+(0.7846) image -> 3\segmented_FleftCC (220).png
+         predicted_label->3_4, true_label->3_4
+(0.7229) image -> 3\segmented_FleftCC (224).png
+         predicted_label->3_4, true_label->3_4
+(0.7740) image -> 3\segmented_FleftCC (228).png
+         predicted_label->1_2, true_label->3_4
+(0.7426) image -> 3\segmented_FleftCC (232).png
+         predicted_label->3_4, true_label->3_4
+(0.8247) image -> 3\segmented_FleftCC (236).png
+         predicted_label->3_4, true_label->3_4
+(0.7446) image -> 3\segmented_FleftCC (24).png
+         predicted_label->3_4, true_label->3_4
+(0.7425) image -> 3\segmented_FleftCC (240).png
+         predicted_label->3_4, true_label->3_4
+(0.7932) image -> 3\segmented_FleftCC (244).png
+         predicted_label->1_2, true_label->3_4
+(0.7729) image -> 3\segmented_FleftCC (248).png
+         predicted_label->3_4, true_label->3_4
+(0.9479) image -> 3\segmented_FleftCC (252).png
+         predicted_label->3_4, true_label->3_4
+(1.0205) image -> 3\segmented_FleftCC (256).png
+         predicted_label->3_4, true_label->3_4
+(0.8809) image -> 3\segmented_FleftCC (260).png
+         predicted_label->3_4, true_label->3_4
+(0.8597) image -> 3\segmented_FleftCC (264).png
+         predicted_label->3_4, true_label->3_4
+(0.8928) image -> 3\segmented_FleftCC (268).png
+         predicted_label->1_2, true_label->3_4
+(0.8041) image -> 3\segmented_FleftCC (272).png
+         predicted_label->3_4, true_label->3_4
+(0.8415) image -> 3\segmented_FleftCC (276).png
+         predicted_label->3_4, true_label->3_4
+(0.8235) image -> 3\segmented_FleftCC (28).png
+         predicted_label->3_4, true_label->3_4
+(0.7987) image -> 3\segmented_FleftCC (280).png
+         predicted_label->3_4, true_label->3_4
+(0.8199) image -> 3\segmented_FleftCC (284).png
+         predicted_label->1_2, true_label->3_4
+(0.7415) image -> 3\segmented_FleftCC (288).png
+         predicted_label->1_2, true_label->3_4
+(0.7570) image -> 3\segmented_FleftCC (292).png
+         predicted_label->3_4, true_label->3_4
+(0.7600) image -> 3\segmented_FleftCC (296).png
+         predicted_label->3_4, true_label->3_4
+(0.8225) image -> 3\segmented_FleftCC (300).png
+         predicted_label->3_4, true_label->3_4
+(0.7936) image -> 3\segmented_FleftCC (304).png
+         predicted_label->3_4, true_label->3_4
+(0.8405) image -> 3\segmented_FleftCC (308).png
+         predicted_label->3_4, true_label->3_4
+(0.8026) image -> 3\segmented_FleftCC (312).png
+         predicted_label->1_2, true_label->3_4
+(0.7931) image -> 3\segmented_FleftCC (32).png
+         predicted_label->3_4, true_label->3_4
+(0.9131) image -> 3\segmented_FleftCC (36).png
+         predicted_label->3_4, true_label->3_4
+(0.8195) image -> 3\segmented_FleftCC (4).png
+         predicted_label->3_4, true_label->3_4
+(0.7860) image -> 3\segmented_FleftCC (40).png
+         predicted_label->3_4, true_label->3_4
+(0.8142) image -> 3\segmented_FleftCC (44).png
+         predicted_label->1_2, true_label->3_4
+(0.9342) image -> 3\segmented_FleftCC (48).png
+         predicted_label->3_4, true_label->3_4
+(0.8388) image -> 3\segmented_FleftCC (52).png
+         predicted_label->3_4, true_label->3_4
+(0.8068) image -> 3\segmented_FleftCC (56).png
+         predicted_label->3_4, true_label->3_4
+(0.8312) image -> 3\segmented_FleftCC (60).png
+         predicted_label->3_4, true_label->3_4
+(0.8319) image -> 3\segmented_FleftCC (64).png
+         predicted_label->3_4, true_label->3_4
+(0.8861) image -> 3\segmented_FleftCC (68).png
+         predicted_label->3_4, true_label->3_4
+(0.8196) image -> 3\segmented_FleftCC (72).png
+         predicted_label->3_4, true_label->3_4
+(0.7860) image -> 3\segmented_FleftCC (76).png
+         predicted_label->3_4, true_label->3_4
+(0.8406) image -> 3\segmented_FleftCC (8).png
+         predicted_label->1_2, true_label->3_4
+(0.9397) image -> 3\segmented_FleftCC (80).png
+         predicted_label->3_4, true_label->3_4
+(0.8624) image -> 3\segmented_FleftCC (84).png
+         predicted_label->3_4, true_label->3_4
+(0.8509) image -> 3\segmented_FleftCC (88).png
+         predicted_label->3_4, true_label->3_4
+(0.8197) image -> 3\segmented_FleftCC (92).png
+         predicted_label->3_4, true_label->3_4
+(0.7791) image -> 3\segmented_FleftCC (96).png
+         predicted_label->1_2, true_label->3_4
+(0.8605) image -> 3\segmented_FleftMLO (100).png
+         predicted_label->1_2, true_label->3_4
+(0.8744) image -> 3\segmented_FleftMLO (104).png
+         predicted_label->1_2, true_label->3_4
+(0.7555) image -> 3\segmented_FleftMLO (108).png
+         predicted_label->3_4, true_label->3_4
+(0.7540) image -> 3\segmented_FleftMLO (112).png
+         predicted_label->3_4, true_label->3_4
+(0.8217) image -> 3\segmented_FleftMLO (116).png
+         predicted_label->1_2, true_label->3_4
+(0.7478) image -> 3\segmented_FleftMLO (12).png
+         predicted_label->3_4, true_label->3_4
+(0.7603) image -> 3\segmented_FleftMLO (120).png
+         predicted_label->3_4, true_label->3_4
+(0.8233) image -> 3\segmented_FleftMLO (124).png
+         predicted_label->3_4, true_label->3_4
+(0.8028) image -> 3\segmented_FleftMLO (128).png
+         predicted_label->1_2, true_label->3_4
+(0.8248) image -> 3\segmented_FleftMLO (132).png
+         predicted_label->3_4, true_label->3_4
+(0.7725) image -> 3\segmented_FleftMLO (136).png
+         predicted_label->3_4, true_label->3_4
+(0.8196) image -> 3\segmented_FleftMLO (140).png
+         predicted_label->3_4, true_label->3_4
+(0.8504) image -> 3\segmented_FleftMLO (144).png
+         predicted_label->1_2, true_label->3_4
+(0.8503) image -> 3\segmented_FleftMLO (148).png
+         predicted_label->1_2, true_label->3_4
+(0.8122) image -> 3\segmented_FleftMLO (152).png
+         predicted_label->1_2, true_label->3_4
+(0.7555) image -> 3\segmented_FleftMLO (156).png
+         predicted_label->3_4, true_label->3_4
+(0.7444) image -> 3\segmented_FleftMLO (16).png
+         predicted_label->1_2, true_label->3_4
+(0.7447) image -> 3\segmented_FleftMLO (160).png
+         predicted_label->3_4, true_label->3_4
+(0.8229) image -> 3\segmented_FleftMLO (164).png
+         predicted_label->3_4, true_label->3_4
+(0.7589) image -> 3\segmented_FleftMLO (168).png
+         predicted_label->3_4, true_label->3_4
+(0.7706) image -> 3\segmented_FleftMLO (172).png
+         predicted_label->3_4, true_label->3_4
+(0.8090) image -> 3\segmented_FleftMLO (176).png
+         predicted_label->3_4, true_label->3_4
+(0.8580) image -> 3\segmented_FleftMLO (180).png
+         predicted_label->1_2, true_label->3_4
+(0.8455) image -> 3\segmented_FleftMLO (184).png
+         predicted_label->1_2, true_label->3_4
+(0.7898) image -> 3\segmented_FleftMLO (188).png
+         predicted_label->3_4, true_label->3_4
+(0.7909) image -> 3\segmented_FleftMLO (192).png
+         predicted_label->3_4, true_label->3_4
+(0.7822) image -> 3\segmented_FleftMLO (196).png
+         predicted_label->3_4, true_label->3_4
+(0.8404) image -> 3\segmented_FleftMLO (20).png
+         predicted_label->1_2, true_label->3_4
+(0.8859) image -> 3\segmented_FleftMLO (200).png
+         predicted_label->3_4, true_label->3_4
+(0.8342) image -> 3\segmented_FleftMLO (204).png
+         predicted_label->3_4, true_label->3_4
+(0.8351) image -> 3\segmented_FleftMLO (208).png
+         predicted_label->1_2, true_label->3_4
+(0.8839) image -> 3\segmented_FleftMLO (212).png
+         predicted_label->1_2, true_label->3_4
+(0.8815) image -> 3\segmented_FleftMLO (216).png
+         predicted_label->1_2, true_label->3_4
+(0.8890) image -> 3\segmented_FleftMLO (220).png
+         predicted_label->1_2, true_label->3_4
+(0.9277) image -> 3\segmented_FleftMLO (224).png
+         predicted_label->1_2, true_label->3_4
+(0.8310) image -> 3\segmented_FleftMLO (228).png
+         predicted_label->1_2, true_label->3_4
+(0.8261) image -> 3\segmented_FleftMLO (232).png
+         predicted_label->1_2, true_label->3_4
+(0.8442) image -> 3\segmented_FleftMLO (236).png
+         predicted_label->3_4, true_label->3_4
+(0.8149) image -> 3\segmented_FleftMLO (24).png
+         predicted_label->1_2, true_label->3_4
+(0.7994) image -> 3\segmented_FleftMLO (240).png
+         predicted_label->3_4, true_label->3_4
+(0.9127) image -> 3\segmented_FleftMLO (244).png
+         predicted_label->3_4, true_label->3_4
+(0.8282) image -> 3\segmented_FleftMLO (248).png
+         predicted_label->3_4, true_label->3_4
+(0.8271) image -> 3\segmented_FleftMLO (252).png
+         predicted_label->3_4, true_label->3_4
+(0.8102) image -> 3\segmented_FleftMLO (256).png
+         predicted_label->1_2, true_label->3_4
+(0.7767) image -> 3\segmented_FleftMLO (260).png
+         predicted_label->3_4, true_label->3_4
+(0.8629) image -> 3\segmented_FleftMLO (264).png
+         predicted_label->1_2, true_label->3_4
+(0.8029) image -> 3\segmented_FleftMLO (268).png
+         predicted_label->1_2, true_label->3_4
+(0.7791) image -> 3\segmented_FleftMLO (272).png
+         predicted_label->3_4, true_label->3_4
+(0.8035) image -> 3\segmented_FleftMLO (276).png
+         predicted_label->3_4, true_label->3_4
+(0.8318) image -> 3\segmented_FleftMLO (28).png
+         predicted_label->3_4, true_label->3_4
+(0.8051) image -> 3\segmented_FleftMLO (280).png
+         predicted_label->3_4, true_label->3_4
+(0.9101) image -> 3\segmented_FleftMLO (284).png
+         predicted_label->1_2, true_label->3_4
+(0.8564) image -> 3\segmented_FleftMLO (288).png
+         predicted_label->3_4, true_label->3_4
+(0.8352) image -> 3\segmented_FleftMLO (292).png
+         predicted_label->3_4, true_label->3_4
+(0.8972) image -> 3\segmented_FleftMLO (296).png
+         predicted_label->1_2, true_label->3_4
+(0.7671) image -> 3\segmented_FleftMLO (300).png
+         predicted_label->3_4, true_label->3_4
+(0.7447) image -> 3\segmented_FleftMLO (304).png
+         predicted_label->3_4, true_label->3_4
+(0.7405) image -> 3\segmented_FleftMLO (308).png
+         predicted_label->3_4, true_label->3_4
+(0.8083) image -> 3\segmented_FleftMLO (312).png
+         predicted_label->3_4, true_label->3_4
+(0.7461) image -> 3\segmented_FleftMLO (32).png
+         predicted_label->3_4, true_label->3_4
+(0.7741) image -> 3\segmented_FleftMLO (36).png
+         predicted_label->3_4, true_label->3_4
+(0.7554) image -> 3\segmented_FleftMLO (4).png
+         predicted_label->1_2, true_label->3_4
+(0.7375) image -> 3\segmented_FleftMLO (40).png
+         predicted_label->1_2, true_label->3_4
+(0.8415) image -> 3\segmented_FleftMLO (44).png
+         predicted_label->3_4, true_label->3_4
+(0.7964) image -> 3\segmented_FleftMLO (48).png
+         predicted_label->3_4, true_label->3_4
+(0.7517) image -> 3\segmented_FleftMLO (52).png
+         predicted_label->3_4, true_label->3_4
+(0.8686) image -> 3\segmented_FleftMLO (56).png
+         predicted_label->3_4, true_label->3_4
+(0.8493) image -> 3\segmented_FleftMLO (60).png
+         predicted_label->3_4, true_label->3_4
+(0.8163) image -> 3\segmented_FleftMLO (64).png
+         predicted_label->1_2, true_label->3_4
+(0.7973) image -> 3\segmented_FleftMLO (68).png
+         predicted_label->3_4, true_label->3_4
+(0.7953) image -> 3\segmented_FleftMLO (72).png
+         predicted_label->1_2, true_label->3_4
+(0.7707) image -> 3\segmented_FleftMLO (76).png
+         predicted_label->1_2, true_label->3_4
+(0.8347) image -> 3\segmented_FleftMLO (8).png
+         predicted_label->1_2, true_label->3_4
+(0.8045) image -> 3\segmented_FleftMLO (80).png
+         predicted_label->3_4, true_label->3_4
+(0.9676) image -> 3\segmented_FleftMLO (84).png
+         predicted_label->1_2, true_label->3_4
+(0.8148) image -> 3\segmented_FleftMLO (88).png
+         predicted_label->3_4, true_label->3_4
+(0.8706) image -> 3\segmented_FleftMLO (92).png
+         predicted_label->3_4, true_label->3_4
+(0.8986) image -> 3\segmented_FleftMLO (96).png
+         predicted_label->1_2, true_label->3_4
+(0.8552) image -> 3\segmented_FrightCC (100).png
+         predicted_label->1_2, true_label->3_4
+(0.9449) image -> 3\segmented_FrightCC (104).png
+         predicted_label->1_2, true_label->3_4
+(0.8118) image -> 3\segmented_FrightCC (108).png
+         predicted_label->3_4, true_label->3_4
+(0.8072) image -> 3\segmented_FrightCC (112).png
+         predicted_label->3_4, true_label->3_4
+(0.7517) image -> 3\segmented_FrightCC (116).png
+         predicted_label->3_4, true_label->3_4
+(0.8242) image -> 3\segmented_FrightCC (12).png
+         predicted_label->3_4, true_label->3_4
+(0.8460) image -> 3\segmented_FrightCC (120).png
+         predicted_label->1_2, true_label->3_4
+(0.9692) image -> 3\segmented_FrightCC (124).png
+         predicted_label->3_4, true_label->3_4
+(0.8947) image -> 3\segmented_FrightCC (128).png
+         predicted_label->3_4, true_label->3_4
+(0.8238) image -> 3\segmented_FrightCC (132).png
+         predicted_label->3_4, true_label->3_4
+(0.9052) image -> 3\segmented_FrightCC (136).png
+         predicted_label->1_2, true_label->3_4
+(0.7758) image -> 3\segmented_FrightCC (140).png
+         predicted_label->3_4, true_label->3_4
+(0.8987) image -> 3\segmented_FrightCC (144).png
+         predicted_label->1_2, true_label->3_4
+(0.8099) image -> 3\segmented_FrightCC (148).png
+         predicted_label->3_4, true_label->3_4
+(0.8061) image -> 3\segmented_FrightCC (152).png
+         predicted_label->3_4, true_label->3_4
+(0.8042) image -> 3\segmented_FrightCC (156).png
+         predicted_label->3_4, true_label->3_4
+(0.8382) image -> 3\segmented_FrightCC (16).png
+         predicted_label->1_2, true_label->3_4
+(0.7877) image -> 3\segmented_FrightCC (160).png
+         predicted_label->3_4, true_label->3_4
+(0.8154) image -> 3\segmented_FrightCC (164).png
+         predicted_label->3_4, true_label->3_4
+(0.8126) image -> 3\segmented_FrightCC (168).png
+         predicted_label->3_4, true_label->3_4
+(0.7751) image -> 3\segmented_FrightCC (172).png
+         predicted_label->3_4, true_label->3_4
+(0.8283) image -> 3\segmented_FrightCC (176).png
+         predicted_label->3_4, true_label->3_4
+(0.7671) image -> 3\segmented_FrightCC (180).png
+         predicted_label->3_4, true_label->3_4
+(0.7814) image -> 3\segmented_FrightCC (184).png
+         predicted_label->3_4, true_label->3_4
+(0.7926) image -> 3\segmented_FrightCC (188).png
+         predicted_label->1_2, true_label->3_4
+(0.8985) image -> 3\segmented_FrightCC (192).png
+         predicted_label->3_4, true_label->3_4
+(0.8044) image -> 3\segmented_FrightCC (196).png
+         predicted_label->1_2, true_label->3_4
+(0.7698) image -> 3\segmented_FrightCC (20).png
+         predicted_label->3_4, true_label->3_4
+(0.8089) image -> 3\segmented_FrightCC (200).png
+         predicted_label->1_2, true_label->3_4
+(0.8112) image -> 3\segmented_FrightCC (204).png
+         predicted_label->3_4, true_label->3_4
+(0.8354) image -> 3\segmented_FrightCC (208).png
+         predicted_label->3_4, true_label->3_4
+(0.7611) image -> 3\segmented_FrightCC (212).png
+         predicted_label->1_2, true_label->3_4
+(0.7625) image -> 3\segmented_FrightCC (216).png
+         predicted_label->3_4, true_label->3_4
+(0.8297) image -> 3\segmented_FrightCC (220).png
+         predicted_label->3_4, true_label->3_4
+(0.9327) image -> 3\segmented_FrightCC (224).png
+         predicted_label->3_4, true_label->3_4
+(0.8478) image -> 3\segmented_FrightCC (228).png
+         predicted_label->3_4, true_label->3_4
+(0.8732) image -> 3\segmented_FrightCC (232).png
+         predicted_label->1_2, true_label->3_4
+(0.8175) image -> 3\segmented_FrightCC (236).png
+         predicted_label->1_2, true_label->3_4
+(0.7799) image -> 3\segmented_FrightCC (24).png
+         predicted_label->1_2, true_label->3_4
+(0.8300) image -> 3\segmented_FrightCC (240).png
+         predicted_label->1_2, true_label->3_4
+(0.8039) image -> 3\segmented_FrightCC (244).png
+         predicted_label->3_4, true_label->3_4
+(0.7978) image -> 3\segmented_FrightCC (248).png
+         predicted_label->1_2, true_label->3_4
+(0.7980) image -> 3\segmented_FrightCC (252).png
+         predicted_label->3_4, true_label->3_4
+(0.8434) image -> 3\segmented_FrightCC (256).png
+         predicted_label->3_4, true_label->3_4
+(0.8071) image -> 3\segmented_FrightCC (260).png
+         predicted_label->3_4, true_label->3_4
+(1.0024) image -> 3\segmented_FrightCC (264).png
+         predicted_label->3_4, true_label->3_4
+(0.7869) image -> 3\segmented_FrightCC (268).png
+         predicted_label->3_4, true_label->3_4
+(0.7678) image -> 3\segmented_FrightCC (272).png
+         predicted_label->3_4, true_label->3_4
+(0.8397) image -> 3\segmented_FrightCC (276).png
+         predicted_label->3_4, true_label->3_4
+(0.8432) image -> 3\segmented_FrightCC (28).png
+         predicted_label->3_4, true_label->3_4
+(0.7812) image -> 3\segmented_FrightCC (280).png
+         predicted_label->3_4, true_label->3_4
+(0.7645) image -> 3\segmented_FrightCC (284).png
+         predicted_label->3_4, true_label->3_4
+(0.8303) image -> 3\segmented_FrightCC (288).png
+         predicted_label->1_2, true_label->3_4
+(0.7856) image -> 3\segmented_FrightCC (292).png
+         predicted_label->1_2, true_label->3_4
+(0.7727) image -> 3\segmented_FrightCC (296).png
+         predicted_label->3_4, true_label->3_4
+(0.7989) image -> 3\segmented_FrightCC (300).png
+         predicted_label->3_4, true_label->3_4
+(0.7937) image -> 3\segmented_FrightCC (304).png
+         predicted_label->1_2, true_label->3_4
+(0.8394) image -> 3\segmented_FrightCC (308).png
+         predicted_label->3_4, true_label->3_4
+(0.7641) image -> 3\segmented_FrightCC (312).png
+         predicted_label->3_4, true_label->3_4
+(0.7482) image -> 3\segmented_FrightCC (32).png
+         predicted_label->3_4, true_label->3_4
+(0.8083) image -> 3\segmented_FrightCC (36).png
+         predicted_label->3_4, true_label->3_4
+(0.8556) image -> 3\segmented_FrightCC (4).png
+         predicted_label->1_2, true_label->3_4
+(0.7950) image -> 3\segmented_FrightCC (40).png
+         predicted_label->3_4, true_label->3_4
+(0.7716) image -> 3\segmented_FrightCC (44).png
+         predicted_label->3_4, true_label->3_4
+(0.7840) image -> 3\segmented_FrightCC (48).png
+         predicted_label->3_4, true_label->3_4
+(0.7714) image -> 3\segmented_FrightCC (52).png
+         predicted_label->1_2, true_label->3_4
+(0.8091) image -> 3\segmented_FrightCC (56).png
+         predicted_label->3_4, true_label->3_4
+(0.8249) image -> 3\segmented_FrightCC (60).png
+         predicted_label->3_4, true_label->3_4
+(0.8037) image -> 3\segmented_FrightCC (64).png
+         predicted_label->3_4, true_label->3_4
+(0.8845) image -> 3\segmented_FrightCC (68).png
+         predicted_label->3_4, true_label->3_4
+(0.8230) image -> 3\segmented_FrightCC (72).png
+         predicted_label->3_4, true_label->3_4
+(0.7474) image -> 3\segmented_FrightCC (76).png
+         predicted_label->1_2, true_label->3_4
+(0.7544) image -> 3\segmented_FrightCC (8).png
+         predicted_label->3_4, true_label->3_4
+(0.7408) image -> 3\segmented_FrightCC (80).png
+         predicted_label->3_4, true_label->3_4
+(0.7507) image -> 3\segmented_FrightCC (84).png
+         predicted_label->3_4, true_label->3_4
+(0.7973) image -> 3\segmented_FrightCC (88).png
+         predicted_label->3_4, true_label->3_4
+(0.7385) image -> 3\segmented_FrightCC (92).png
+         predicted_label->1_2, true_label->3_4
+(0.7276) image -> 3\segmented_FrightCC (96).png
+         predicted_label->3_4, true_label->3_4
+(0.7635) image -> 3\segmented_FrightMLO (100).png
+         predicted_label->1_2, true_label->3_4
+(0.8456) image -> 3\segmented_FrightMLO (104).png
+         predicted_label->1_2, true_label->3_4
+(0.7838) image -> 3\segmented_FrightMLO (108).png
+         predicted_label->3_4, true_label->3_4
+(0.7612) image -> 3\segmented_FrightMLO (112).png
+         predicted_label->1_2, true_label->3_4
+(0.9159) image -> 3\segmented_FrightMLO (116).png
+         predicted_label->3_4, true_label->3_4
+(0.7737) image -> 3\segmented_FrightMLO (12).png
+         predicted_label->1_2, true_label->3_4
+(0.8472) image -> 3\segmented_FrightMLO (120).png
+         predicted_label->3_4, true_label->3_4
+(0.8490) image -> 3\segmented_FrightMLO (124).png
+         predicted_label->3_4, true_label->3_4
+(0.7774) image -> 3\segmented_FrightMLO (128).png
+         predicted_label->1_2, true_label->3_4
+(0.7858) image -> 3\segmented_FrightMLO (132).png
+         predicted_label->3_4, true_label->3_4
+(0.8756) image -> 3\segmented_FrightMLO (136).png
+         predicted_label->3_4, true_label->3_4
+(0.7728) image -> 3\segmented_FrightMLO (140).png
+         predicted_label->3_4, true_label->3_4
+(0.7513) image -> 3\segmented_FrightMLO (144).png
+         predicted_label->1_2, true_label->3_4
+(0.7661) image -> 3\segmented_FrightMLO (148).png
+         predicted_label->3_4, true_label->3_4
+(0.7542) image -> 3\segmented_FrightMLO (152).png
+         predicted_label->1_2, true_label->3_4
+(0.8383) image -> 3\segmented_FrightMLO (156).png
+         predicted_label->1_2, true_label->3_4
+(0.7791) image -> 3\segmented_FrightMLO (16).png
+         predicted_label->3_4, true_label->3_4
+(0.7751) image -> 3\segmented_FrightMLO (160).png
+         predicted_label->3_4, true_label->3_4
+(0.7670) image -> 3\segmented_FrightMLO (164).png
+         predicted_label->3_4, true_label->3_4
+(0.8358) image -> 3\segmented_FrightMLO (168).png
+         predicted_label->3_4, true_label->3_4
+(0.7549) image -> 3\segmented_FrightMLO (172).png
+         predicted_label->3_4, true_label->3_4
+(0.7830) image -> 3\segmented_FrightMLO (176).png
+         predicted_label->3_4, true_label->3_4
+(0.7658) image -> 3\segmented_FrightMLO (180).png
+         predicted_label->3_4, true_label->3_4
+(0.7617) image -> 3\segmented_FrightMLO (184).png
+         predicted_label->3_4, true_label->3_4
+(0.8171) image -> 3\segmented_FrightMLO (188).png
+         predicted_label->3_4, true_label->3_4
+(0.7668) image -> 3\segmented_FrightMLO (192).png
+         predicted_label->3_4, true_label->3_4
+(0.7457) image -> 3\segmented_FrightMLO (196).png
+         predicted_label->3_4, true_label->3_4
+(0.7488) image -> 3\segmented_FrightMLO (20).png
+         predicted_label->3_4, true_label->3_4
+(0.8190) image -> 3\segmented_FrightMLO (200).png
+         predicted_label->1_2, true_label->3_4
+(0.7442) image -> 3\segmented_FrightMLO (204).png
+         predicted_label->3_4, true_label->3_4
+(0.7939) image -> 3\segmented_FrightMLO (208).png
+         predicted_label->1_2, true_label->3_4
+(0.7557) image -> 3\segmented_FrightMLO (212).png
+         predicted_label->1_2, true_label->3_4
+(0.7909) image -> 3\segmented_FrightMLO (216).png
+         predicted_label->3_4, true_label->3_4
+(0.8211) image -> 3\segmented_FrightMLO (220).png
+         predicted_label->3_4, true_label->3_4
+(0.7500) image -> 3\segmented_FrightMLO (224).png
+         predicted_label->1_2, true_label->3_4
+(0.7956) image -> 3\segmented_FrightMLO (228).png
+         predicted_label->3_4, true_label->3_4
+(0.8118) image -> 3\segmented_FrightMLO (232).png
+         predicted_label->3_4, true_label->3_4
+(0.9066) image -> 3\segmented_FrightMLO (236).png
+         predicted_label->1_2, true_label->3_4
+(0.7884) image -> 3\segmented_FrightMLO (24).png
+         predicted_label->1_2, true_label->3_4
+(0.7693) image -> 3\segmented_FrightMLO (240).png
+         predicted_label->3_4, true_label->3_4
+(0.7776) image -> 3\segmented_FrightMLO (244).png
+         predicted_label->3_4, true_label->3_4
+(0.7949) image -> 3\segmented_FrightMLO (248).png
+         predicted_label->1_2, true_label->3_4
+(0.8798) image -> 3\segmented_FrightMLO (252).png
+         predicted_label->3_4, true_label->3_4
+(0.7997) image -> 3\segmented_FrightMLO (256).png
+         predicted_label->3_4, true_label->3_4
+(0.7738) image -> 3\segmented_FrightMLO (260).png
+         predicted_label->1_2, true_label->3_4
+(0.8265) image -> 3\segmented_FrightMLO (264).png
+         predicted_label->3_4, true_label->3_4
+(0.8980) image -> 3\segmented_FrightMLO (268).png
+         predicted_label->3_4, true_label->3_4
+(0.8276) image -> 3\segmented_FrightMLO (272).png
+         predicted_label->1_2, true_label->3_4
+(0.7624) image -> 3\segmented_FrightMLO (276).png
+         predicted_label->1_2, true_label->3_4
+(0.7532) image -> 3\segmented_FrightMLO (28).png
+         predicted_label->3_4, true_label->3_4
+(0.8005) image -> 3\segmented_FrightMLO (280).png
+         predicted_label->3_4, true_label->3_4
+(0.8435) image -> 3\segmented_FrightMLO (284).png
+         predicted_label->1_2, true_label->3_4
+(0.7785) image -> 3\segmented_FrightMLO (288).png
+         predicted_label->3_4, true_label->3_4
+(0.7790) image -> 3\segmented_FrightMLO (292).png
+         predicted_label->3_4, true_label->3_4
+(0.7735) image -> 3\segmented_FrightMLO (296).png
+         predicted_label->1_2, true_label->3_4
+(0.8482) image -> 3\segmented_FrightMLO (300).png
+         predicted_label->3_4, true_label->3_4
+(0.7737) image -> 3\segmented_FrightMLO (304).png
+         predicted_label->3_4, true_label->3_4
+(0.7501) image -> 3\segmented_FrightMLO (308).png
+         predicted_label->3_4, true_label->3_4
+(0.7829) image -> 3\segmented_FrightMLO (312).png
+         predicted_label->1_2, true_label->3_4
+(0.7684) image -> 3\segmented_FrightMLO (32).png
+         predicted_label->3_4, true_label->3_4
+(0.8411) image -> 3\segmented_FrightMLO (36).png
+         predicted_label->3_4, true_label->3_4
+(0.7458) image -> 3\segmented_FrightMLO (4).png
+         predicted_label->3_4, true_label->3_4
+(0.7734) image -> 3\segmented_FrightMLO (40).png
+         predicted_label->3_4, true_label->3_4
+(0.7603) image -> 3\segmented_FrightMLO (44).png
+         predicted_label->3_4, true_label->3_4
+(0.8448) image -> 3\segmented_FrightMLO (48).png
+         predicted_label->3_4, true_label->3_4
+(0.7757) image -> 3\segmented_FrightMLO (52).png
+         predicted_label->3_4, true_label->3_4
+(0.7759) image -> 3\segmented_FrightMLO (56).png
+         predicted_label->1_2, true_label->3_4
+(0.7916) image -> 3\segmented_FrightMLO (60).png
+         predicted_label->1_2, true_label->3_4
+(0.7413) image -> 3\segmented_FrightMLO (64).png
+         predicted_label->3_4, true_label->3_4
+(0.8282) image -> 3\segmented_FrightMLO (68).png
+         predicted_label->3_4, true_label->3_4
+(0.7771) image -> 3\segmented_FrightMLO (72).png
+         predicted_label->3_4, true_label->3_4
+(0.7707) image -> 3\segmented_FrightMLO (76).png
+         predicted_label->3_4, true_label->3_4
+(0.7562) image -> 3\segmented_FrightMLO (8).png
+         predicted_label->1_2, true_label->3_4
+(0.8189) image -> 3\segmented_FrightMLO (80).png
+         predicted_label->1_2, true_label->3_4
+(0.7662) image -> 3\segmented_FrightMLO (84).png
+         predicted_label->3_4, true_label->3_4
+(0.7528) image -> 3\segmented_FrightMLO (88).png
+         predicted_label->1_2, true_label->3_4
+(0.7613) image -> 3\segmented_FrightMLO (92).png
+         predicted_label->1_2, true_label->3_4
+(0.7567) image -> 3\segmented_FrightMLO (96).png
+         predicted_label->3_4, true_label->3_4
+(0.8166) image -> 4\segmented_GleftCC (100).png
+         predicted_label->3_4, true_label->3_4
+(0.7362) image -> 4\segmented_GleftCC (104).png
+         predicted_label->3_4, true_label->3_4
+(0.7406) image -> 4\segmented_GleftCC (108).png
+         predicted_label->3_4, true_label->3_4
+(0.7769) image -> 4\segmented_GleftCC (112).png
+         predicted_label->3_4, true_label->3_4
+(0.8544) image -> 4\segmented_GleftCC (116).png
+         predicted_label->1_2, true_label->3_4
+(0.7708) image -> 4\segmented_GleftCC (12).png
+         predicted_label->3_4, true_label->3_4
+(0.7705) image -> 4\segmented_GleftCC (120).png
+         predicted_label->3_4, true_label->3_4
+(0.7730) image -> 4\segmented_GleftCC (124).png
+         predicted_label->3_4, true_label->3_4
+(0.7570) image -> 4\segmented_GleftCC (128).png
+         predicted_label->3_4, true_label->3_4
+(0.8207) image -> 4\segmented_GleftCC (132).png
+         predicted_label->3_4, true_label->3_4
+(0.7841) image -> 4\segmented_GleftCC (136).png
+         predicted_label->1_2, true_label->3_4
+(0.7463) image -> 4\segmented_GleftCC (140).png
+         predicted_label->3_4, true_label->3_4
+(0.7464) image -> 4\segmented_GleftCC (144).png
+         predicted_label->1_2, true_label->3_4
+(0.8146) image -> 4\segmented_GleftCC (148).png
+         predicted_label->3_4, true_label->3_4
+(0.7856) image -> 4\segmented_GleftCC (152).png
+         predicted_label->3_4, true_label->3_4
+(0.7928) image -> 4\segmented_GleftCC (156).png
+         predicted_label->1_2, true_label->3_4
+(0.7733) image -> 4\segmented_GleftCC (16).png
+         predicted_label->3_4, true_label->3_4
+(0.8148) image -> 4\segmented_GleftCC (160).png
+         predicted_label->3_4, true_label->3_4
+(0.8330) image -> 4\segmented_GleftCC (164).png
+         predicted_label->3_4, true_label->3_4
+(0.7525) image -> 4\segmented_GleftCC (168).png
+         predicted_label->1_2, true_label->3_4
+(0.7611) image -> 4\segmented_GleftCC (172).png
+         predicted_label->1_2, true_label->3_4
+(0.7416) image -> 4\segmented_GleftCC (176).png
+         predicted_label->3_4, true_label->3_4
+(0.8490) image -> 4\segmented_GleftCC (180).png
+         predicted_label->3_4, true_label->3_4
+(0.7615) image -> 4\segmented_GleftCC (184).png
+         predicted_label->3_4, true_label->3_4
+(0.7970) image -> 4\segmented_GleftCC (188).png
+         predicted_label->3_4, true_label->3_4
+(0.7744) image -> 4\segmented_GleftCC (192).png
+         predicted_label->3_4, true_label->3_4
+(0.7521) image -> 4\segmented_GleftCC (196).png
+         predicted_label->1_2, true_label->3_4
+(0.8278) image -> 4\segmented_GleftCC (20).png
+         predicted_label->3_4, true_label->3_4
+(0.7447) image -> 4\segmented_GleftCC (200).png
+         predicted_label->3_4, true_label->3_4
+(0.7386) image -> 4\segmented_GleftCC (204).png
+         predicted_label->3_4, true_label->3_4
+(0.7615) image -> 4\segmented_GleftCC (208).png
+         predicted_label->3_4, true_label->3_4
+(0.8370) image -> 4\segmented_GleftCC (212).png
+         predicted_label->3_4, true_label->3_4
+(0.7669) image -> 4\segmented_GleftCC (216).png
+         predicted_label->3_4, true_label->3_4
+(0.7714) image -> 4\segmented_GleftCC (220).png
+         predicted_label->3_4, true_label->3_4
+(0.7638) image -> 4\segmented_GleftCC (224).png
+         predicted_label->3_4, true_label->3_4
+(0.7834) image -> 4\segmented_GleftCC (228).png
+         predicted_label->3_4, true_label->3_4
+(0.8243) image -> 4\segmented_GleftCC (232).png
+         predicted_label->1_2, true_label->3_4
+(0.7812) image -> 4\segmented_GleftCC (236).png
+         predicted_label->3_4, true_label->3_4
+(0.7603) image -> 4\segmented_GleftCC (24).png
+         predicted_label->3_4, true_label->3_4
+(0.7572) image -> 4\segmented_GleftCC (240).png
+         predicted_label->3_4, true_label->3_4
+(0.8172) image -> 4\segmented_GleftCC (244).png
+         predicted_label->3_4, true_label->3_4
+(0.7663) image -> 4\segmented_GleftCC (248).png
+         predicted_label->1_2, true_label->3_4
+(0.7414) image -> 4\segmented_GleftCC (252).png
+         predicted_label->1_2, true_label->3_4
+(0.7679) image -> 4\segmented_GleftCC (256).png
+         predicted_label->3_4, true_label->3_4
+(0.7389) image -> 4\segmented_GleftCC (260).png
+         predicted_label->3_4, true_label->3_4
+(0.8222) image -> 4\segmented_GleftCC (264).png
+         predicted_label->3_4, true_label->3_4
+(0.7526) image -> 4\segmented_GleftCC (268).png
+         predicted_label->3_4, true_label->3_4
+(0.7636) image -> 4\segmented_GleftCC (272).png
+         predicted_label->3_4, true_label->3_4
+(0.7590) image -> 4\segmented_GleftCC (276).png
+         predicted_label->3_4, true_label->3_4
+(0.8160) image -> 4\segmented_GleftCC (28).png
+         predicted_label->3_4, true_label->3_4
+(0.7652) image -> 4\segmented_GleftCC (280).png
+         predicted_label->3_4, true_label->3_4
+(0.7526) image -> 4\segmented_GleftCC (284).png
+         predicted_label->3_4, true_label->3_4
+(0.7624) image -> 4\segmented_GleftCC (288).png
+         predicted_label->3_4, true_label->3_4
+(0.8155) image -> 4\segmented_GleftCC (292).png
+         predicted_label->3_4, true_label->3_4
+(0.8628) image -> 4\segmented_GleftCC (296).png
+         predicted_label->3_4, true_label->3_4
+(0.7900) image -> 4\segmented_GleftCC (300).png
+         predicted_label->3_4, true_label->3_4
+(0.8361) image -> 4\segmented_GleftCC (304).png
+         predicted_label->3_4, true_label->3_4
+(0.8150) image -> 4\segmented_GleftCC (308).png
+         predicted_label->3_4, true_label->3_4
+(0.8475) image -> 4\segmented_GleftCC (312).png
+         predicted_label->3_4, true_label->3_4
+(0.7652) image -> 4\segmented_GleftCC (32).png
+         predicted_label->3_4, true_label->3_4
+(0.7667) image -> 4\segmented_GleftCC (36).png
+         predicted_label->3_4, true_label->3_4
+(0.7532) image -> 4\segmented_GleftCC (4).png
+         predicted_label->3_4, true_label->3_4
+(0.7707) image -> 4\segmented_GleftCC (40).png
+         predicted_label->3_4, true_label->3_4
+(0.8199) image -> 4\segmented_GleftCC (44).png
+         predicted_label->3_4, true_label->3_4
+(0.7605) image -> 4\segmented_GleftCC (48).png
+         predicted_label->3_4, true_label->3_4
+(0.7540) image -> 4\segmented_GleftCC (52).png
+         predicted_label->3_4, true_label->3_4
+(0.7608) image -> 4\segmented_GleftCC (56).png
+         predicted_label->3_4, true_label->3_4
+(0.8177) image -> 4\segmented_GleftCC (60).png
+         predicted_label->3_4, true_label->3_4
+(0.7814) image -> 4\segmented_GleftCC (64).png
+         predicted_label->3_4, true_label->3_4
+(0.7639) image -> 4\segmented_GleftCC (68).png
+         predicted_label->3_4, true_label->3_4
+(0.7755) image -> 4\segmented_GleftCC (72).png
+         predicted_label->3_4, true_label->3_4
+(0.7665) image -> 4\segmented_GleftCC (76).png
+         predicted_label->1_2, true_label->3_4
+(0.8307) image -> 4\segmented_GleftCC (8).png
+         predicted_label->3_4, true_label->3_4
+(0.7906) image -> 4\segmented_GleftCC (80).png
+         predicted_label->3_4, true_label->3_4
+(0.7645) image -> 4\segmented_GleftCC (84).png
+         predicted_label->3_4, true_label->3_4
+(0.7897) image -> 4\segmented_GleftCC (88).png
+         predicted_label->3_4, true_label->3_4
+(0.8509) image -> 4\segmented_GleftCC (92).png
+         predicted_label->3_4, true_label->3_4
+(0.7756) image -> 4\segmented_GleftCC (96).png
+         predicted_label->3_4, true_label->3_4
+(0.7665) image -> 4\segmented_GleftMLO (100).png
+         predicted_label->3_4, true_label->3_4
+(0.7599) image -> 4\segmented_GleftMLO (104).png
+         predicted_label->3_4, true_label->3_4
+(0.7674) image -> 4\segmented_GleftMLO (108).png
+         predicted_label->3_4, true_label->3_4
+(0.8711) image -> 4\segmented_GleftMLO (112).png
+         predicted_label->3_4, true_label->3_4
+(0.7784) image -> 4\segmented_GleftMLO (116).png
+         predicted_label->3_4, true_label->3_4
+(0.8128) image -> 4\segmented_GleftMLO (12).png
+         predicted_label->3_4, true_label->3_4
+(0.8454) image -> 4\segmented_GleftMLO (120).png
+         predicted_label->3_4, true_label->3_4
+(0.8947) image -> 4\segmented_GleftMLO (124).png
+         predicted_label->3_4, true_label->3_4
+(0.7754) image -> 4\segmented_GleftMLO (128).png
+         predicted_label->3_4, true_label->3_4
+(0.7585) image -> 4\segmented_GleftMLO (132).png
+         predicted_label->3_4, true_label->3_4
+(0.7672) image -> 4\segmented_GleftMLO (136).png
+         predicted_label->3_4, true_label->3_4
+(0.7485) image -> 4\segmented_GleftMLO (140).png
+         predicted_label->3_4, true_label->3_4
+(0.8283) image -> 4\segmented_GleftMLO (144).png
+         predicted_label->3_4, true_label->3_4
+(0.7759) image -> 4\segmented_GleftMLO (148).png
+         predicted_label->3_4, true_label->3_4
+(0.7999) image -> 4\segmented_GleftMLO (152).png
+         predicted_label->3_4, true_label->3_4
+(0.7725) image -> 4\segmented_GleftMLO (156).png
+         predicted_label->3_4, true_label->3_4
+(0.8851) image -> 4\segmented_GleftMLO (16).png
+         predicted_label->3_4, true_label->3_4
+(0.8240) image -> 4\segmented_GleftMLO (160).png
+         predicted_label->1_2, true_label->3_4
+(0.8050) image -> 4\segmented_GleftMLO (164).png
+         predicted_label->1_2, true_label->3_4
+(0.8203) image -> 4\segmented_GleftMLO (168).png
+         predicted_label->1_2, true_label->3_4
+(0.7933) image -> 4\segmented_GleftMLO (172).png
+         predicted_label->3_4, true_label->3_4
+(0.8516) image -> 4\segmented_GleftMLO (176).png
+         predicted_label->1_2, true_label->3_4
+(0.8379) image -> 4\segmented_GleftMLO (180).png
+         predicted_label->3_4, true_label->3_4
+(0.7544) image -> 4\segmented_GleftMLO (184).png
+         predicted_label->1_2, true_label->3_4
+(0.7693) image -> 4\segmented_GleftMLO (188).png
+         predicted_label->1_2, true_label->3_4
+(0.8464) image -> 4\segmented_GleftMLO (192).png
+         predicted_label->3_4, true_label->3_4
+(0.7520) image -> 4\segmented_GleftMLO (196).png
+         predicted_label->3_4, true_label->3_4
+(0.7574) image -> 4\segmented_GleftMLO (20).png
+         predicted_label->3_4, true_label->3_4
+(0.7449) image -> 4\segmented_GleftMLO (200).png
+         predicted_label->3_4, true_label->3_4
+(0.7847) image -> 4\segmented_GleftMLO (204).png
+         predicted_label->1_2, true_label->3_4
+(0.8121) image -> 4\segmented_GleftMLO (208).png
+         predicted_label->3_4, true_label->3_4
+(0.7645) image -> 4\segmented_GleftMLO (212).png
+         predicted_label->3_4, true_label->3_4
+(0.7630) image -> 4\segmented_GleftMLO (216).png
+         predicted_label->1_2, true_label->3_4
+(0.7523) image -> 4\segmented_GleftMLO (220).png
+         predicted_label->1_2, true_label->3_4
+(0.8314) image -> 4\segmented_GleftMLO (224).png
+         predicted_label->3_4, true_label->3_4
+(0.7551) image -> 4\segmented_GleftMLO (228).png
+         predicted_label->3_4, true_label->3_4
+(0.7351) image -> 4\segmented_GleftMLO (232).png
+         predicted_label->3_4, true_label->3_4
+(0.7639) image -> 4\segmented_GleftMLO (236).png
+         predicted_label->3_4, true_label->3_4
+(0.7403) image -> 4\segmented_GleftMLO (24).png
+         predicted_label->3_4, true_label->3_4
+(0.8092) image -> 4\segmented_GleftMLO (240).png
+         predicted_label->3_4, true_label->3_4
+(0.7577) image -> 4\segmented_GleftMLO (244).png
+         predicted_label->3_4, true_label->3_4
+(0.7721) image -> 4\segmented_GleftMLO (248).png
+         predicted_label->3_4, true_label->3_4
+(0.7565) image -> 4\segmented_GleftMLO (252).png
+         predicted_label->3_4, true_label->3_4
+(0.8472) image -> 4\segmented_GleftMLO (256).png
+         predicted_label->3_4, true_label->3_4
+(0.7617) image -> 4\segmented_GleftMLO (260).png
+         predicted_label->3_4, true_label->3_4
+(0.7416) image -> 4\segmented_GleftMLO (264).png
+         predicted_label->3_4, true_label->3_4
+(0.7582) image -> 4\segmented_GleftMLO (268).png
+         predicted_label->3_4, true_label->3_4
+(0.7944) image -> 4\segmented_GleftMLO (272).png
+         predicted_label->3_4, true_label->3_4
+(0.8110) image -> 4\segmented_GleftMLO (276).png
+         predicted_label->3_4, true_label->3_4
+(0.7692) image -> 4\segmented_GleftMLO (28).png
+         predicted_label->3_4, true_label->3_4
+(0.7874) image -> 4\segmented_GleftMLO (280).png
+         predicted_label->3_4, true_label->3_4
+(0.7637) image -> 4\segmented_GleftMLO (284).png
+         predicted_label->3_4, true_label->3_4
+(0.8128) image -> 4\segmented_GleftMLO (288).png
+         predicted_label->1_2, true_label->3_4
+(0.7704) image -> 4\segmented_GleftMLO (292).png
+         predicted_label->3_4, true_label->3_4
+(0.7609) image -> 4\segmented_GleftMLO (296).png
+         predicted_label->3_4, true_label->3_4
+(0.7516) image -> 4\segmented_GleftMLO (300).png
+         predicted_label->1_2, true_label->3_4
+(0.7456) image -> 4\segmented_GleftMLO (304).png
+         predicted_label->3_4, true_label->3_4
+(0.8187) image -> 4\segmented_GleftMLO (308).png
+         predicted_label->3_4, true_label->3_4
+(0.8056) image -> 4\segmented_GleftMLO (312).png
+         predicted_label->3_4, true_label->3_4
+(0.8143) image -> 4\segmented_GleftMLO (32).png
+         predicted_label->3_4, true_label->3_4
+(0.7959) image -> 4\segmented_GleftMLO (36).png
+         predicted_label->3_4, true_label->3_4
+(0.8825) image -> 4\segmented_GleftMLO (4).png
+         predicted_label->3_4, true_label->3_4
+(0.7843) image -> 4\segmented_GleftMLO (40).png
+         predicted_label->3_4, true_label->3_4
+(0.7727) image -> 4\segmented_GleftMLO (44).png
+         predicted_label->1_2, true_label->3_4
+(0.7582) image -> 4\segmented_GleftMLO (48).png
+         predicted_label->1_2, true_label->3_4
+(0.7267) image -> 4\segmented_GleftMLO (52).png
+         predicted_label->3_4, true_label->3_4
+(0.8124) image -> 4\segmented_GleftMLO (56).png
+         predicted_label->3_4, true_label->3_4
+(0.7776) image -> 4\segmented_GleftMLO (60).png
+         predicted_label->3_4, true_label->3_4
+(0.8488) image -> 4\segmented_GleftMLO (64).png
+         predicted_label->3_4, true_label->3_4
+(0.7994) image -> 4\segmented_GleftMLO (68).png
+         predicted_label->3_4, true_label->3_4
+(0.8566) image -> 4\segmented_GleftMLO (72).png
+         predicted_label->3_4, true_label->3_4
+(0.7793) image -> 4\segmented_GleftMLO (76).png
+         predicted_label->3_4, true_label->3_4
+(0.8837) image -> 4\segmented_GleftMLO (8).png
+         predicted_label->3_4, true_label->3_4
+(0.7932) image -> 4\segmented_GleftMLO (80).png
+         predicted_label->3_4, true_label->3_4
+(0.7599) image -> 4\segmented_GleftMLO (84).png
+         predicted_label->3_4, true_label->3_4
+(0.7949) image -> 4\segmented_GleftMLO (88).png
+         predicted_label->3_4, true_label->3_4
+(0.7766) image -> 4\segmented_GleftMLO (92).png
+         predicted_label->3_4, true_label->3_4
+(0.7481) image -> 4\segmented_GleftMLO (96).png
+         predicted_label->3_4, true_label->3_4
+(0.8570) image -> 4\segmented_GrightCC (100).png
+         predicted_label->3_4, true_label->3_4
+(0.9313) image -> 4\segmented_GrightCC (104).png
+         predicted_label->3_4, true_label->3_4
+(0.8317) image -> 4\segmented_GrightCC (108).png
+         predicted_label->3_4, true_label->3_4
+(0.8083) image -> 4\segmented_GrightCC (112).png
+         predicted_label->3_4, true_label->3_4
+(0.7544) image -> 4\segmented_GrightCC (116).png
+         predicted_label->3_4, true_label->3_4
+(0.7716) image -> 4\segmented_GrightCC (12).png
+         predicted_label->3_4, true_label->3_4
+(0.9412) image -> 4\segmented_GrightCC (120).png
+         predicted_label->3_4, true_label->3_4
+(0.8804) image -> 4\segmented_GrightCC (124).png
+         predicted_label->3_4, true_label->3_4
+(0.7653) image -> 4\segmented_GrightCC (128).png
+         predicted_label->3_4, true_label->3_4
+(0.7939) image -> 4\segmented_GrightCC (132).png
+         predicted_label->3_4, true_label->3_4
+(1.0080) image -> 4\segmented_GrightCC (136).png
+         predicted_label->1_2, true_label->3_4
+(0.9441) image -> 4\segmented_GrightCC (140).png
+         predicted_label->1_2, true_label->3_4
+(1.2019) image -> 4\segmented_GrightCC (144).png
+         predicted_label->1_2, true_label->3_4
+(0.7430) image -> 4\segmented_GrightCC (148).png
+         predicted_label->3_4, true_label->3_4
+(0.8033) image -> 4\segmented_GrightCC (152).png
+         predicted_label->3_4, true_label->3_4
+(0.8942) image -> 4\segmented_GrightCC (156).png
+         predicted_label->3_4, true_label->3_4
+(0.9814) image -> 4\segmented_GrightCC (16).png
+         predicted_label->3_4, true_label->3_4
+(0.8398) image -> 4\segmented_GrightCC (160).png
+         predicted_label->1_2, true_label->3_4
+(0.9633) image -> 4\segmented_GrightCC (164).png
+         predicted_label->3_4, true_label->3_4
+(0.9910) image -> 4\segmented_GrightCC (168).png
+         predicted_label->3_4, true_label->3_4
+(0.8132) image -> 4\segmented_GrightCC (172).png
+         predicted_label->3_4, true_label->3_4
+(0.7431) image -> 4\segmented_GrightCC (176).png
+         predicted_label->3_4, true_label->3_4
+(0.7835) image -> 4\segmented_GrightCC (180).png
+         predicted_label->3_4, true_label->3_4
+(0.8356) image -> 4\segmented_GrightCC (184).png
+         predicted_label->1_2, true_label->3_4
+(0.8739) image -> 4\segmented_GrightCC (188).png
+         predicted_label->3_4, true_label->3_4
+(0.8333) image -> 4\segmented_GrightCC (192).png
+         predicted_label->3_4, true_label->3_4
+(0.7525) image -> 4\segmented_GrightCC (196).png
+         predicted_label->1_2, true_label->3_4
+(0.7421) image -> 4\segmented_GrightCC (20).png
+         predicted_label->3_4, true_label->3_4
+(0.8048) image -> 4\segmented_GrightCC (200).png
+         predicted_label->3_4, true_label->3_4
+(0.7484) image -> 4\segmented_GrightCC (204).png
+         predicted_label->3_4, true_label->3_4
+(0.7437) image -> 4\segmented_GrightCC (208).png
+         predicted_label->3_4, true_label->3_4
+(0.7456) image -> 4\segmented_GrightCC (212).png
+         predicted_label->3_4, true_label->3_4
+(0.7436) image -> 4\segmented_GrightCC (216).png
+         predicted_label->3_4, true_label->3_4
+(0.8798) image -> 4\segmented_GrightCC (220).png
+         predicted_label->3_4, true_label->3_4
+(0.7835) image -> 4\segmented_GrightCC (224).png
+         predicted_label->1_2, true_label->3_4
+(0.7819) image -> 4\segmented_GrightCC (228).png
+         predicted_label->3_4, true_label->3_4
+(0.8099) image -> 4\segmented_GrightCC (232).png
+         predicted_label->1_2, true_label->3_4
+(0.8129) image -> 4\segmented_GrightCC (236).png
+         predicted_label->3_4, true_label->3_4
+(0.7685) image -> 4\segmented_GrightCC (24).png
+         predicted_label->3_4, true_label->3_4
+(0.7713) image -> 4\segmented_GrightCC (240).png
+         predicted_label->3_4, true_label->3_4
+(0.7656) image -> 4\segmented_GrightCC (244).png
+         predicted_label->3_4, true_label->3_4
+(0.8696) image -> 4\segmented_GrightCC (248).png
+         predicted_label->3_4, true_label->3_4
+(0.8968) image -> 4\segmented_GrightCC (252).png
+         predicted_label->1_2, true_label->3_4
+(0.7710) image -> 4\segmented_GrightCC (256).png
+         predicted_label->3_4, true_label->3_4
+(0.7894) image -> 4\segmented_GrightCC (260).png
+         predicted_label->1_2, true_label->3_4
+(0.7515) image -> 4\segmented_GrightCC (264).png
+         predicted_label->3_4, true_label->3_4
+(0.8183) image -> 4\segmented_GrightCC (268).png
+         predicted_label->3_4, true_label->3_4
+(0.7602) image -> 4\segmented_GrightCC (272).png
+         predicted_label->3_4, true_label->3_4
+(0.7631) image -> 4\segmented_GrightCC (276).png
+         predicted_label->3_4, true_label->3_4
+(0.7781) image -> 4\segmented_GrightCC (28).png
+         predicted_label->3_4, true_label->3_4
+(0.7468) image -> 4\segmented_GrightCC (280).png
+         predicted_label->3_4, true_label->3_4
+(0.8010) image -> 4\segmented_GrightCC (284).png
+         predicted_label->3_4, true_label->3_4
+(0.7639) image -> 4\segmented_GrightCC (288).png
+         predicted_label->3_4, true_label->3_4
+(0.7456) image -> 4\segmented_GrightCC (292).png
+         predicted_label->1_2, true_label->3_4
+(0.7688) image -> 4\segmented_GrightCC (296).png
+         predicted_label->3_4, true_label->3_4
+(0.8183) image -> 4\segmented_GrightCC (300).png
+         predicted_label->1_2, true_label->3_4
+(0.7508) image -> 4\segmented_GrightCC (304).png
+         predicted_label->3_4, true_label->3_4
+(0.7840) image -> 4\segmented_GrightCC (308).png
+         predicted_label->3_4, true_label->3_4
+(0.7736) image -> 4\segmented_GrightCC (312).png
+         predicted_label->3_4, true_label->3_4
+(0.7594) image -> 4\segmented_GrightCC (32).png
+         predicted_label->3_4, true_label->3_4
+(0.8295) image -> 4\segmented_GrightCC (36).png
+         predicted_label->3_4, true_label->3_4
+(0.7359) image -> 4\segmented_GrightCC (4).png
+         predicted_label->3_4, true_label->3_4
+(0.8170) image -> 4\segmented_GrightCC (40).png
+         predicted_label->3_4, true_label->3_4
+(0.7836) image -> 4\segmented_GrightCC (44).png
+         predicted_label->3_4, true_label->3_4
+(0.8820) image -> 4\segmented_GrightCC (48).png
+         predicted_label->3_4, true_label->3_4
+(0.7411) image -> 4\segmented_GrightCC (52).png
+         predicted_label->1_2, true_label->3_4
+(0.7761) image -> 4\segmented_GrightCC (56).png
+         predicted_label->3_4, true_label->3_4
+(0.8036) image -> 4\segmented_GrightCC (60).png
+         predicted_label->3_4, true_label->3_4
+(0.7507) image -> 4\segmented_GrightCC (64).png
+         predicted_label->3_4, true_label->3_4
+(0.8424) image -> 4\segmented_GrightCC (68).png
+         predicted_label->3_4, true_label->3_4
+(0.7820) image -> 4\segmented_GrightCC (72).png
+         predicted_label->3_4, true_label->3_4
+(0.7757) image -> 4\segmented_GrightCC (76).png
+         predicted_label->1_2, true_label->3_4
+(0.7744) image -> 4\segmented_GrightCC (8).png
+         predicted_label->3_4, true_label->3_4
+(0.8360) image -> 4\segmented_GrightCC (80).png
+         predicted_label->3_4, true_label->3_4
+(0.7667) image -> 4\segmented_GrightCC (84).png
+         predicted_label->3_4, true_label->3_4
+(0.7790) image -> 4\segmented_GrightCC (88).png
+         predicted_label->3_4, true_label->3_4
+(0.7782) image -> 4\segmented_GrightCC (92).png
+         predicted_label->3_4, true_label->3_4
+(0.7959) image -> 4\segmented_GrightCC (96).png
+         predicted_label->3_4, true_label->3_4
+(0.8128) image -> 4\segmented_GrightMLO (100).png
+         predicted_label->3_4, true_label->3_4
+(0.7648) image -> 4\segmented_GrightMLO (104).png
+         predicted_label->3_4, true_label->3_4
+(0.7788) image -> 4\segmented_GrightMLO (108).png
+         predicted_label->3_4, true_label->3_4
+(0.7785) image -> 4\segmented_GrightMLO (112).png
+         predicted_label->3_4, true_label->3_4
+(0.8383) image -> 4\segmented_GrightMLO (116).png
+         predicted_label->3_4, true_label->3_4
+(0.7632) image -> 4\segmented_GrightMLO (12).png
+         predicted_label->3_4, true_label->3_4
+(0.7411) image -> 4\segmented_GrightMLO (120).png
+         predicted_label->3_4, true_label->3_4
+(0.7624) image -> 4\segmented_GrightMLO (124).png
+         predicted_label->1_2, true_label->3_4
+(0.7604) image -> 4\segmented_GrightMLO (128).png
+         predicted_label->3_4, true_label->3_4
+(0.8189) image -> 4\segmented_GrightMLO (132).png
+         predicted_label->3_4, true_label->3_4
+(0.7468) image -> 4\segmented_GrightMLO (136).png
+         predicted_label->3_4, true_label->3_4
+(0.8269) image -> 4\segmented_GrightMLO (140).png
+         predicted_label->3_4, true_label->3_4
+(0.8653) image -> 4\segmented_GrightMLO (144).png
+         predicted_label->3_4, true_label->3_4
+(1.0235) image -> 4\segmented_GrightMLO (148).png
+         predicted_label->3_4, true_label->3_4
+(0.8369) image -> 4\segmented_GrightMLO (152).png
+         predicted_label->3_4, true_label->3_4
+(0.8565) image -> 4\segmented_GrightMLO (156).png
+         predicted_label->3_4, true_label->3_4
+(0.9130) image -> 4\segmented_GrightMLO (16).png
+         predicted_label->3_4, true_label->3_4
+(0.8494) image -> 4\segmented_GrightMLO (160).png
+         predicted_label->3_4, true_label->3_4
+(0.8260) image -> 4\segmented_GrightMLO (164).png
+         predicted_label->3_4, true_label->3_4
+(1.0636) image -> 4\segmented_GrightMLO (168).png
+         predicted_label->1_2, true_label->3_4
+(0.9118) image -> 4\segmented_GrightMLO (172).png
+         predicted_label->1_2, true_label->3_4
+(0.8456) image -> 4\segmented_GrightMLO (176).png
+         predicted_label->3_4, true_label->3_4
+(0.8478) image -> 4\segmented_GrightMLO (180).png
+         predicted_label->3_4, true_label->3_4
+(0.7593) image -> 4\segmented_GrightMLO (184).png
+         predicted_label->1_2, true_label->3_4
+(0.8316) image -> 4\segmented_GrightMLO (188).png
+         predicted_label->3_4, true_label->3_4
+(0.7792) image -> 4\segmented_GrightMLO (192).png
+         predicted_label->3_4, true_label->3_4
+(0.7686) image -> 4\segmented_GrightMLO (196).png
+         predicted_label->1_2, true_label->3_4
+(0.8074) image -> 4\segmented_GrightMLO (20).png
+         predicted_label->3_4, true_label->3_4
+(0.7800) image -> 4\segmented_GrightMLO (200).png
+         predicted_label->3_4, true_label->3_4
+(0.7527) image -> 4\segmented_GrightMLO (204).png
+         predicted_label->1_2, true_label->3_4
+(0.7512) image -> 4\segmented_GrightMLO (208).png
+         predicted_label->1_2, true_label->3_4
+(0.8173) image -> 4\segmented_GrightMLO (212).png
+         predicted_label->3_4, true_label->3_4
+(0.7643) image -> 4\segmented_GrightMLO (216).png
+         predicted_label->3_4, true_label->3_4
+(0.7646) image -> 4\segmented_GrightMLO (220).png
+         predicted_label->3_4, true_label->3_4
+(0.7687) image -> 4\segmented_GrightMLO (224).png
+         predicted_label->3_4, true_label->3_4
+(0.7777) image -> 4\segmented_GrightMLO (228).png
+         predicted_label->1_2, true_label->3_4
+(0.8233) image -> 4\segmented_GrightMLO (232).png
+         predicted_label->3_4, true_label->3_4
+(0.7837) image -> 4\segmented_GrightMLO (236).png
+         predicted_label->3_4, true_label->3_4
+(0.8173) image -> 4\segmented_GrightMLO (24).png
+         predicted_label->3_4, true_label->3_4
+(0.8324) image -> 4\segmented_GrightMLO (240).png
+         predicted_label->3_4, true_label->3_4
+(0.9035) image -> 4\segmented_GrightMLO (244).png
+         predicted_label->3_4, true_label->3_4
+(0.8498) image -> 4\segmented_GrightMLO (248).png
+         predicted_label->3_4, true_label->3_4
+(0.8316) image -> 4\segmented_GrightMLO (252).png
+         predicted_label->3_4, true_label->3_4
+(0.8195) image -> 4\segmented_GrightMLO (256).png
+         predicted_label->3_4, true_label->3_4
+(0.7554) image -> 4\segmented_GrightMLO (260).png
+         predicted_label->3_4, true_label->3_4
+(0.8012) image -> 4\segmented_GrightMLO (264).png
+         predicted_label->1_2, true_label->3_4
+(0.7326) image -> 4\segmented_GrightMLO (268).png
+         predicted_label->3_4, true_label->3_4
+(0.7265) image -> 4\segmented_GrightMLO (272).png
+         predicted_label->1_2, true_label->3_4
+(0.7509) image -> 4\segmented_GrightMLO (276).png
+         predicted_label->3_4, true_label->3_4
+(0.8232) image -> 4\segmented_GrightMLO (28).png
+         predicted_label->3_4, true_label->3_4
+(0.7349) image -> 4\segmented_GrightMLO (280).png
+         predicted_label->3_4, true_label->3_4
+(0.7689) image -> 4\segmented_GrightMLO (284).png
+         predicted_label->3_4, true_label->3_4
+(0.7736) image -> 4\segmented_GrightMLO (288).png
+         predicted_label->3_4, true_label->3_4
+(0.7869) image -> 4\segmented_GrightMLO (292).png
+         predicted_label->3_4, true_label->3_4
+(0.8068) image -> 4\segmented_GrightMLO (296).png
+         predicted_label->3_4, true_label->3_4
+(0.7919) image -> 4\segmented_GrightMLO (300).png
+         predicted_label->1_2, true_label->3_4
+(0.7374) image -> 4\segmented_GrightMLO (304).png
+         predicted_label->3_4, true_label->3_4
+(0.7889) image -> 4\segmented_GrightMLO (308).png
+         predicted_label->3_4, true_label->3_4
+(0.8482) image -> 4\segmented_GrightMLO (312).png
+         predicted_label->3_4, true_label->3_4
+(0.7509) image -> 4\segmented_GrightMLO (32).png
+         predicted_label->3_4, true_label->3_4
+(0.7797) image -> 4\segmented_GrightMLO (36).png
+         predicted_label->3_4, true_label->3_4
+(0.7924) image -> 4\segmented_GrightMLO (4).png
+         predicted_label->3_4, true_label->3_4
+(0.7918) image -> 4\segmented_GrightMLO (40).png
+         predicted_label->3_4, true_label->3_4
+(0.8070) image -> 4\segmented_GrightMLO (44).png
+         predicted_label->1_2, true_label->3_4
+(0.7358) image -> 4\segmented_GrightMLO (48).png
+         predicted_label->3_4, true_label->3_4
+(0.7718) image -> 4\segmented_GrightMLO (52).png
+         predicted_label->1_2, true_label->3_4
+(0.7583) image -> 4\segmented_GrightMLO (56).png
+         predicted_label->1_2, true_label->3_4
+(0.8519) image -> 4\segmented_GrightMLO (60).png
+         predicted_label->3_4, true_label->3_4
+(0.7690) image -> 4\segmented_GrightMLO (64).png
+         predicted_label->3_4, true_label->3_4
+(0.7892) image -> 4\segmented_GrightMLO (68).png
+         predicted_label->3_4, true_label->3_4
+(0.7733) image -> 4\segmented_GrightMLO (72).png
+         predicted_label->3_4, true_label->3_4
+(0.7574) image -> 4\segmented_GrightMLO (76).png
+         predicted_label->3_4, true_label->3_4
+(0.8194) image -> 4\segmented_GrightMLO (8).png
+         predicted_label->3_4, true_label->3_4
+(0.7632) image -> 4\segmented_GrightMLO (80).png
+         predicted_label->3_4, true_label->3_4
+(0.7642) image -> 4\segmented_GrightMLO (84).png
+         predicted_label->3_4, true_label->3_4
+(0.7689) image -> 4\segmented_GrightMLO (88).png
+         predicted_label->3_4, true_label->3_4
+(0.8153) image -> 4\segmented_GrightMLO (92).png
+         predicted_label->3_4, true_label->3_4
+(0.7732) image -> 4\segmented_GrightMLO (96).png
+         predicted_label->3_4, true_label->3_4
+
+{'accuracy': 0.8333333333333334, 
+ 'precision': 0.8954372623574145, 
+ 'recall': 0.7548076923076923, 
+ 'specificity': 0.9118589743589743, 
+ 'fone_score': 0.8191304347826087, 
+ 'time': 1014.721773147583}

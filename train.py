@@ -21,6 +21,7 @@ print(f"using -> {device}")
 
 # image_size = (384, 384)
 
+
 def plot_results(hist, epochs_range):
     '''
     Plota um gráfico com os resultados do modelo
@@ -48,7 +49,29 @@ def plot_results(hist, epochs_range):
     # plt.show()
 
 
-def dataset_train_test(preprocess):
+def get_transform(weights, manual=False):
+    """
+    Retorna transformações 
+    ----------
+    Default = transformações do modelo original
+    Manual = imagens 224x224
+    """
+    manual_transforms = transforms.Compose([
+        # usando imagens menores, menor tempo de treino
+        transforms.Resize((224, 224)),
+        transforms.ToTensor(),
+        transforms.Normalize(mean=[0.485, 0.456, 0.406],
+                             std=[0.229, 0.224, 0.225]),
+    ])
+    preprocess = weights.transforms()
+    _transform = preprocess
+    if manual:
+        _transform = manual_transforms
+
+    return _transform
+
+
+def dataset_train_test(weights):
     """
     Splitando o dataset original em treino e teste
     ---------
@@ -61,14 +84,8 @@ def dataset_train_test(preprocess):
                     interpolation=InterpolationMode.BILINEAR
                 )
     """
-    manual_transforms = transforms.Compose([
-        transforms.Resize((224, 224)), # usando imagens menores, menor tempo de treino 
-        transforms.ToTensor(), 
-        transforms.Normalize(mean=[0.485, 0.456, 0.406], 
-                             std=[0.229, 0.224, 0.225]),
-    ])
-    _transform = preprocess # usando as mesmas transformações feitas pelo modelo ori
-    dataset = ImageFolder('./datasets/dataset_segmented/train/', transform=_transform)
+    dataset = ImageFolder('./datasets/dataset_segmented/train/',
+                          transform=get_transform(weights, manual=True))
     validation_split = .3
     shuffle = True
     random_seed = 42
@@ -87,8 +104,10 @@ def dataset_train_test(preprocess):
 
     print(f'{len(train_indices)} training samples, {len(val_indices)} validation samples')
 
-    train_loader = torch.utils.data.DataLoader(dataset, batch_size=batch_size, sampler=train_sampler)
-    test_loader = torch.utils.data.DataLoader(dataset, batch_size=batch_size, sampler=valid_sampler)
+    train_loader = torch.utils.data.DataLoader(
+        dataset, batch_size=batch_size, sampler=train_sampler)
+    test_loader = torch.utils.data.DataLoader(
+        dataset, batch_size=batch_size, sampler=valid_sampler)
 
     return train_loader, test_loader, dataset.classes
 
@@ -105,7 +124,8 @@ def show_training_images(loader, classes):
     dataiter = iter(loader)
     images, labels = next(dataiter)
 
-    imshow(torchvision.utils.make_grid(images, nrow=16, padding=8), title=[str(classes[labels[j]]) for j in range(32)])
+    imshow(torchvision.utils.make_grid(images, nrow=16, padding=8),
+           title=[str(classes[labels[j]]) for j in range(32)])
 
 
 def show_info_model(model):
@@ -113,12 +133,13 @@ def show_info_model(model):
     Printando informações do modelo
     """
     summary(model=model,
-            input_size=(32, 3, 384, 384),
+            input_size=(32, 3, 224, 224),
             col_names=["input_size", "output_size", "num_params", "trainable"],
             col_width=20,
             row_settings=["var_names"])
 
-def create_model(classes, weights):
+
+def create_model(classes, weights, gpu=True):
     """
     Criando modelo EfficientNetV2-S, retreinando parte fully-conencted
     """
@@ -135,18 +156,22 @@ def create_model(classes, weights):
 
     # replace fully connected layer
     model.classifier = torch.nn.Sequential(
-        torch.nn.Dropout(p=0.3, inplace=True), 
-        torch.nn.Linear(in_features=1280, 
-                        out_features=output_shape, # same number of output units as number of classes
-                        bias=True)).to(device)
+        torch.nn.Dropout(p=0.3, inplace=True),
+        torch.nn.Linear(in_features=1280,
+                        out_features=output_shape,  # same number of output units as number of classes
+                        bias=True))
+
+    if gpu:
+        model.to(device)
     return model
 
 
 def fit_model(model, train_loader, test_loader, epochs):
     loss_fn = nn.CrossEntropyLoss()
     # optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.001, weight_decay=0.0001) # l2 regularization
-        # Set the random seeds
+    optimizer = torch.optim.Adam(
+        model.parameters(), lr=0.001, weight_decay=0.0001)  # l2 regularization
+    # Set the random seeds
     torch.manual_seed(42)
     torch.cuda.manual_seed(42)
 
@@ -161,12 +186,13 @@ def fit_model(model, train_loader, test_loader, epochs):
     end = time.time()
 
     print(f"[INFO] Total training time: {end-start:.3f} seconds")
-    save_model(model, './models/', f'model_4class_segmented_{epochs}epochs.pth')
+    save_model(model, './models/',
+               f'model_4class_segmented_{epochs}epochs.pth')
 
     return results
 
 
-def save_model(model, target_dir, model_name): 
+def save_model(model, target_dir, model_name):
     # Create target directory
     target_dir_path = Path(target_dir)
     target_dir_path.mkdir(parents=True, exist_ok=True)
@@ -175,18 +201,18 @@ def save_model(model, target_dir, model_name):
 
     # Save the model state_dict()
     print(f"[INFO] Saving model to: {model_save_path}")
-    torch.save(obj=model.state_dict(),f=model_save_path)
-    
+    torch.save(obj=model.state_dict(), f=model_save_path)
+
 
 def main():
     # Total training time: 2300.749 seconds <- 5 epochs, 2 classes
     # Total training time: 2306.996 seconds <- 5 epochs, 4 classes
     # Total training time: 4603.976 seconds <- 10epochs, 4 classes
     # Total training time: 4507.601 seconds <- 10epochs, 2 classes
-    # Total training time: 11098.756 seconds <- 25epochs, 4 classes
+    # Total training time: 11098.756 seconds <- 25epochs, 2 classes 
+    # Total training time: 6309.150 seconds <- 25epochs, 4 classes (224x224)
     weights = torchvision.models.EfficientNet_V2_S_Weights.DEFAULT
-    preprocess = weights.transforms()
-    train_loader, test_loader, classes = dataset_train_test(preprocess)
+    train_loader, test_loader, classes = dataset_train_test(weights)
     # show_training_images(train_loader, classes)
     model = create_model(classes, weights)
     # show_info_model(model)
@@ -195,6 +221,6 @@ def main():
     H = fit_model(model, train_loader, test_loader, epochs)
     plot_results(H, range(epochs))
 
-
+True
 if __name__ == "__main__":
     main()
